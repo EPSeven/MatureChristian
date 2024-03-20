@@ -8,4 +8,5 @@ body.looks {background-color: lightskyblue;}
 h1 {color: blue; font-size: 500%; text-align: center;}
 h2 {font-size: 300%; text-align: center;}
 
-p.scripture {font-style: italic;}
+p.scripture {font-size: 200%; font-style: italic;}
+table {font-size: 200%;}
