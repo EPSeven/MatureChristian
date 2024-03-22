@@ -1,6 +1,6 @@
 package builder;
 
 public interface PageBuilder {
-	public String getDescription();
+	public String getPageGenerationPath();
 	public void createPage();
 }
