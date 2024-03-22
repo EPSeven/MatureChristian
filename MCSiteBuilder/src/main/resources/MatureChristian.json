@@ -1,0 +1,120 @@
+{
+	"pageInfo": {
+		"htmlFileName": "index",
+		"bodyClassName": "home",
+		"pageTitle": "Mature Christian",
+		"customPageHeading": "What is a Mature Christian?"
+	},
+	"categories": [
+		{
+			"categoryName": "Loves",
+			"pageInfo": {
+				"htmlFileName": "LovesLikeJesus", 
+				"bodyClassName": "love",
+				"pageTitle": "Loves like Jesus"
+			},
+			"characteristics": [
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LoveOfGod", 
+						"pageTitle": "Love of God"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LoveOfChrist", 
+						"pageTitle": "Love of Christ"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LoveOfDisciples", 
+						"pageTitle": "Love of Disciples"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LoveOfNeighbor", 
+						"pageTitle": "Love of Neighbor"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-HealthyLoveOfSelf", 
+						"pageTitle": "Healthy Love of Self"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-GodsJudgment", 
+						"pageTitle": "God’s Judgment"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-ForgivingOthers", 
+						"pageTitle": "Forgiving Others"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LoveOfEnemy", 
+						"pageTitle": "Love of Enemy"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-LovingAsChrist", 
+						"pageTitle": "Loving as Christ"
+					}
+				},
+				{
+					"pageInfo": {
+						"htmlFileName": "Loves-NoGreaterLove", 
+						"pageTitle": "No Greater Love"
+					}
+				}
+			]
+		}, 
+		{
+			"categoryName": "Trusts", 
+			"pageInfo": {
+				"htmlFileName": "TrustsInJesus", 
+				"bodyClassName": "trust",
+				"pageTitle": "Trusts in Jesus"
+			}
+		},
+		{
+			"categoryName": "Time", 
+			"pageInfo": {
+				"htmlFileName": "TimeWithJesus", 
+				"bodyClassName": "time",
+				"pageTitle": "Time with Jesus"
+			}
+		},
+		{
+			"categoryName": "Lives", 
+			"pageInfo": {
+				"htmlFileName": "LivesForJesus", 
+				"bodyClassName": "lives",
+				"pageTitle": "Lives for Jesus"
+			}
+		},
+		{
+			"categoryName": "Talks", 
+			"pageInfo": {
+				"htmlFileName": "TalksAboutJesus", 
+				"bodyClassName": "talks",
+				"pageTitle": "Talks about Jesus"
+			}
+		},
+		{
+			"categoryName": "Looks", 
+			"pageInfo": {
+				"htmlFileName": "LooksLikeJesus", 
+				"bodyClassName": "looks",
+				"pageTitle": "Looks like Jesus"
+			}
+		}
+	]
+}
