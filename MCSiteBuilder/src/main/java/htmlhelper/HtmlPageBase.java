@@ -4,6 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.List;
 
 import builder.PageBuilder;
 import jsondata.JsonDataPageInfo;
@@ -13,8 +14,8 @@ public abstract class HtmlPageBase implements PageBuilder {
 	private static final String BACK_ARROW_PNG = "back-arrow.png";
 
 	protected final JsonDataPageInfo pageInfo;
+	protected final HtmlSections html = new HtmlSections();
 
-	private final HtmlSections html = new HtmlSections();
 	private final Path filePath;
 
 	public HtmlPageBase(String destFolder, JsonDataPageInfo pageInfoData) {
@@ -81,8 +82,21 @@ public abstract class HtmlPageBase implements PageBuilder {
 		return HtmlTags.h1.getContentTagLine(pageHeading);
 	}
 
-	protected String getPageIntroduction(String introText) {
-		return HtmlTags.p.getTagLineWithClass("intro") + introText + "\r\n" + HtmlTags.p.getCloseTagLine();
+	protected String getPageIntroduction() {
+		String introSection = "";
+		List<String> introLines = pageInfo.getIntroBlock();
+
+		if (introLines != null) {
+			introSection += HtmlTags.p.getTagLine();
+			for (String introText : introLines) {
+				introSection += HtmlTags.div.getTagLineWithClass("intro");
+				introSection += introText + "\r\n";
+				introSection += HtmlTags.div.getCloseTagLine();
+			}
+			introSection += HtmlTags.p.getCloseTagLine();
+		}
+
+		return introSection;
 	}
 
 	protected String getPageLinkLine(String pageIdentity, String pageTitle) {

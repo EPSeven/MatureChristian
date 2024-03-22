@@ -4,7 +4,7 @@ public class HtmlSections {
 	public String getDocType() {
 		return "<!DOCTYPE html>\r\n";
 	}
-	
+
 	public String getOpenHtmlSection() {
 		return HtmlTags.html.getTagLine();
 	}
@@ -19,13 +19,13 @@ public class HtmlSections {
 
 	public String getStyleSheetLink() {
 		HtmlTagAttributes attributes = new HtmlTagAttributes();
-		
+
 		attributes.addAttribute("rel", "stylesheet");
 		attributes.addAttribute("href", "styles.css");
 
 		return HtmlTags.link.getTagLineWithAttributes(attributes);
 	}
-	
+
 	public String getCloseHeadSection() {
 		return HtmlTags.head.getCloseTagLine();
 	}
@@ -33,16 +33,16 @@ public class HtmlSections {
 	public String getTitleLine(String pageTitle) {
 		return getIndent() + HtmlTags.title.getTag() + pageTitle + HtmlTags.title.getCloseTagLine();
 	}
-	
+
 	public String getOpenBodyByClass(String bodyClassName) {
 		return HtmlTags.body.getTagLineWithClass(bodyClassName);
 	}
-	
+
 	public String getCloseBodySection() {
 		return HtmlTags.body.getCloseTagLine();
 	}
-	
-	private String getIndent() {
+
+	public String getIndent() {
 		return "\t";
 	}
 }

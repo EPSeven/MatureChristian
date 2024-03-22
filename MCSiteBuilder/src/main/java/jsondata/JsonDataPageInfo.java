@@ -1,5 +1,7 @@
 package jsondata;
 
+import java.util.List;
+
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
@@ -9,23 +11,32 @@ public class JsonDataPageInfo {
 	private String bodyClassName;
 	private String pageTitle;
 	private String customPageHeading;
+	private List<String> introBlock;
 
 	public String getHtmlFileName() {
 		return htmlFileName;
 	}
-	
+
 	public String getBodyClassName() {
 		return bodyClassName;
 	}
-	
+
 	public String getPageTitle() {
 		return pageTitle;
 	}
-	
+
 	public String getCustomPageHeading() {
 		return customPageHeading;
 	}
-	
+
+	public List<String> getIntroBlock() {
+		return introBlock;
+	}
+
+	public void setIntroBlock(List<String> introBlock) {
+		this.introBlock = introBlock;
+	}
+
 	public void setHtmlFileName(String htmlFileName) {
 		this.htmlFileName = htmlFileName;
 	}
