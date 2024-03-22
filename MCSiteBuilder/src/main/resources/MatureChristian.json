@@ -3,7 +3,10 @@
 		"htmlFileName": "index",
 		"bodyClassName": "home",
 		"pageTitle": "Mature Christian",
-		"customPageHeading": "What is a Mature Christian?"
+		"customPageHeading": "What is a Mature Christian?",
+		"introBlock" : [
+			"There are a number of characteristics found in the New Testament that paint a picture of a mature Christian. Those characteristics have been grouped into the six categories found below. Explore the categories to discover the characteristics and the milestones that you are likely to encounter as you mature in Christ. A mature Christian has moved from being spiritually dead and lost, to being a mature follower of the Lord Jesus Christ. Blessings as you cooporate with the Holy Spirit at work in forming you into a mature Christian."
+		]
 	},
 	"categories": [
 		{
@@ -17,62 +20,256 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfGod", 
-						"pageTitle": "Love of God"
-					}
+						"pageTitle": "Love of God",
+						"introBlock" : [
+							"We are mature in Christ if we have been transformed by God’s love. Encountering His love leads us to love Him in return. We grow as a disciple of Jesus Christ by loving God. There was a time when we only loved ourselves, and had no interest in loving God. In fact, we had no capacity to love Him because we were far from Him.",
+							"But all that changes when, by God's grace, the gospel penetrates our heart. As a result, we begin learning about God and honestly acknowledge Him as God. We listen to Him and act on what He says, which becomes our way of daily life. Eventually, we sense God asking us to surrender to Him and to trust Him completely. We take this step by offering ourselves to Him in love. From then on, we continue to mature in the midst life’s circumstances. Our trust in God continues to increase, eventually birthing in us a desire to live simply for His glory. Why do we live such a life? Because we have encountered God's life transforming love and responded to Him in love.  We love like Jesus by loving God."
+						]
+					},
+					"scripture": "And He said to him, 'You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.' (Matthew 22:37)",
+					"transformations": [
+						{
+							"name": "Without God",
+							"description": "Before we come to know and love God, we live a life of self-sufficiency. We depend on ourselves. We may receive input from those around us, but in the end we make our own decisions. We are without God.  We do not depend on Him, seek Him, listen to Him, or care about Him. If we claim any belief in God's existence, it has no bearing on our life. This is our condition from birth, from which God desires to deliver us. We do not love God because we love ourselves."
+						},
+						{
+							"name": "Acknowledge God",
+							"description": "The first step in our love's transformation is initiated by God. We learn how in the course of time, God began revealing Himself to humanity through the line of Abraham, Isaac and Jacob, along with His plan to redeem the fallen creation. Our part in the transformation process kicks in when we acknowledge God and recognize that He exists. But to become a disciple of Jesus Christ, we need to acknowledge God as the only authority and truth; that His is indeed God. We do not really grasp all it encompasses, and we certainly do not grasp the implications it is to have on our life, but we make our first move towards loving God simply by acknowledging that He is God. Such an acknowledgement in itself is not love, for love is more than that. Every one of us have people in our lives that we acknowledge without describing these connections as grounded in love. The same is true of our relationship with God. We can acknowledge God without loving Him. Still, our simple acknowledgement of God is a necessary step towards maturity."
+						},
+						{
+							"name": "Listen to God",
+							"description": "At some point the Holy Spirit prompts us and enables us to recognize that if we really do believe that God is God, then we need to listen to Him. Thus, we go from simply acknowledging Him to listening to Him. We admit that God does speak to us through the Bible, the Church, and prayer. While each of us is initially drawn to God differently, as a disciple of Jesus Christ we must ultimately pay attention to God for He has chosen to reveal Himself through the Bible as the Father of our Lord Jesus Christ. Listening means tuning into what God has been saying for generations."
+						},
+						{
+							"name": "Respond to God",
+							"description": "While listening to God is necessary, we are not really listening unless we take action in response to what He says. If we do not do what God says, we are deceiving ourselves, claiming to be mature when in reality we are not. Growth as a disciple stalls if we say we are listening but do not act. However, when we put into practice what we hear, we continue in the direction of maturity. Heart transformation happens as we to listen to God and respond to Him. A love of God has been birthed in us which is now evident to us and to those who know us. This is a sign of the love of God developing in us. We respond to what God says because we are learning to love Him."
+						},
+						{
+							"name": "Surrender to God",
+							"description": "The more we hear and obey God, the more we are drawn by Him, and the greater our love for Him becomes. We eventually reach the point of recognizing that our whole life is to be lived as Christ’s disciple. We sense God calling us to surrender everything to Him. We grasp the depth of God having demonstrated His love for the world in the sending  and death  of Christ. This becomes a major point of transition for us. In the context of loving God, our willingness to completely surrender to Him is an expression of a deep and abiding love for Him. It may be compared to the commitment a man and a woman make when they enter into the marriage covenant. Surrendering to God in love is like saying “I do” to Him, which is to mark our whole life as a disciple, clearly indicating that we love the Lord God exclusively and have no other gods before Him.  Thus, a mature Christian is someone who has surrendered to God and chooses to live for Him, rather than for self. It is at this point where our self-love, though not completely eradicated, has lost the majority of its power. Clearly we are focused on loving God rather loving ourselves."
+						},
+						{
+							"name": "Trust God",
+							"description": "We might think that when we surrender and live for God, we have reached the pinnacle in loving God and maturity, but we have not yet arrived. While our love of God is real and deep, new opportunities for our love to increase come our way. We may not recognize such opportunities when they occur, yet they are part of loving like Christ loves. Growth opportunities come in many forms, each with the potential to increase our faith in God. Our passion for God is enlarged in the midst of challenges which teach us to trust Him in situations and ways that we had not encountered previously. Our love of God grows with our willingness to trust Him, which further increases our love."
+						},
+						{
+							"name": "Glorify God",
+							"description": "As disciples, we continue living grounded in God's love and our love of Him. Our trust also continues to grow, stirring what becomes our deepest desire, to glorify God. We seek to glorify Him by how we live, in what we say and do not say, and with our every thought and desire. We no longer live for ourselves or even for what God may do in or with our life, but only for His glory. It is not a goal that we reach or an achievement we accomplish, it's our life lived day in and day out driven by love for God and His glory that matters to us. We are looking more like Christ who only did what the Father told him. Bringing glory to God marks us as a mature Christian, for loving God is foundational to maturity. Without love we are nothing. A person not interested in loving God, cannot be called a disciple. As Christ's disciple, our growth corresponds to our love of God, and our life reflects the depth of our love. Furthermore, it is our calling and privilege to assist others in becoming and growing as Christ's disciples. We help them explore, discover, grow, and live life centered in loving God, which ultimately surpasses everything that he or she has ever cared about or known."
+						}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfChrist", 
-						"pageTitle": "Love of Christ"
-					}
+						"pageTitle": "Love of Christ",
+						"introBlock" : [
+							"Being a mature Christian means we experience the abiding love of Christ and love him in return. At first we do not love Christ, but only love ourselves. What we may encounter about Jesus, does not lead us to follow him for we have no interest in him. Growth begins as we begin hearing that Jesus is the Christ and discovering the truth about him. Eventually we conclude that he is who he claims to be, the Son of God, the Lord of all. As we seek to understand who Jesus is, we begin to grasp what Jesus says. We reach the point where we acknowledge that as Lord, he has laid claim to our life and calls us to follow him in love, not out of duty. Conforming our will to his, we follow him and discover his interests replacing ours. Over time we notice the significant transformation has gradually taken place within us and we realize that we are no longer the same person we use to be; we are a new creation. As our love of Christ continues to mature we realize that he dwells in us and calls us his own. As we love Jesus Christ, we love like him."
+						]
+					},
+					"scripture": "And though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory (1 Peter 1:8)",
+					"transformations": [
+						{
+							"name": "Born Self-Centered", 
+							"description": "One thing every person has in common is that we enter life not knowing Christ. It isn’t long before we discover ourselves, but discovering Jesus is another story. Self-discovery starts with our needs. We are hungry and need to be fed, wet and need to be changed, tired and need to be put down for a nap, fussy and desiring attention, etc. We do not have to be taught to be self-centered, it develops and happens naturally. Love of self-reigns supreme within us, and love of Christ is non-existent."
+						},
+						{
+							"name": "Hear about Jesus", 
+							"description": "Selfishness is evident in our acting as if we are god of our life. But that is not God’s plan or desire for us. He wants to reconcile us to Himself through Christ. The good news of Jesus Christ and the kingdom of God is a message of reconciliation to God. Those who are ultimately set free from selfishness, experience freedom by coming to know and love Christ. Though we start without knowledge of him, maturing requires a point where we hear about him. Some of us grow up hearing the gospel of Jesus Christ. Others do not hear his name until well into our adult years. Some of us hear the name of Jesus but lack real knowledge of who he is, until we encounter the truth about him. Sadly, some people never hear his name or come to love him. Still others are ignorant of him, even when his name is on the lips of people around them. However we come to hear about him, it is usually through someone who loves him and is carrying out his commission to make disciples. The people through whom we hear are likely to be family members, friends, teachers, other students, co-workers, or neighbors. Some of us learn about the Lord Jesus Christ at church or by exploring the Bible in a group or by ourselves. Whatever the timing and the situation, our first step towards following Christ and loving him involves hearing about him. Hearing about him does not mean that someone simply says ‘Jesus’, for too often his name is spoken in a hollow, empty manner or worse, as a curse. Hearing about him means we discover who he is, his having been sent by God the Father, and that we are to love him. We learn that he died on the cross and was raised from the dead on the third day. We grasp that he will return to judge the living and the dead. To hear about Jesus is to learn about him as a person, who the promised Christ is. It leads to our realizing that there is something unique about this man who lived in Judah over 2,000 years ago. When we really hear about Christ Jesus, we discover that it is well worth the our time and effort to learn more about him."
+						},
+						{
+							"name": "See Jesus for Who He Is", 
+							"description": "As we grow in maturity we want to know more about Christ. We investigate his life. We do not stop with just the historical facts of his life, death, and resurrection, we are drawn to known him personally. Others may refer to him as a good teacher, or say that he is one of many ways that lead to God, but we want to hear for ourselves what he claimed. As we listen to him, we wrestle with the claim that Jesus is the Son of God. He challenges us by declaring that all the Scriptures and prophets point to him. He confronts us in saying that he will return to earth to judge the hearts of everyone and establish his kingdom. Jesus invites us to believe what he says about himself, rather than holding to uninformed opinions of him, or what others say, or even what our culture and institutions think of him. Rather, Christian growth happens as we come face to face with Jesus and accept his claim of being the way, the truth, and the life. He is not one of many paths to God, or a personal opinion, but truth itself; the truth of God. He is the promised Messiah, the Holy One of Israel, sent by God to save His people from their sins."
+						},
+						{
+							"name": "Listen to Jesus", 
+							"description": "As we accept his truth claims, we begin to listen to his teachings with open ears. We realize that he is not some teacher trying to help us be moral or better people, nor is he teaching us how to enjoy life more. Rather, he claims that he is the Lord of all creation who has all authority in heaven and on earth. He is not looking to improve us, but to transform us and give us the life God is offering to us. What Christ says requires that we either believe him and do what he says, or completely ignore him. There is no middle ground. Either we build upon the solid foundation of Christ by putting what he says into practice, or find that all we have built on our own will come crashing down because we do not do what he says. Jesus’ claim of authority demands that we listen to him, living every day and in all situations according to his teachings. We listen to him because we trust him and find our perception of him expanding. Our priorities change as we listen to him, for a maturing Christian is someone who listens to Jesus and does what he says."
+						},
+						{
+							"name": "Follow Jesus", 
+							"description": "As we mature we meet with his invitation to follow him. Like Peter and Andrew, James and John, and Matthew, we are called to follow Jesus. Initially, we step outside of our comfort zone in little ways, being faithful in little things. Following him is challenging because we still want to hold onto what we think we have gained in this life. We do not know exactly what to expect or where we are going since his call to follow him does not include details of where he plans to take us or what we will face. The call is to follow him simply because of who he is. It is an exclusive call that excludes all other options we might consider. Following Jesus at this point is a matter of our will and love. If we have not truly begun to love Jesus, it is hard to follow him and accept the challenges we encounter. Following Christ is in itself an invitation to know him more intimately and love him more deeply. It reveals the things we consider more important than him, the idols that we let reign as our lord. But Christ alone is to be our Lord and nothing in this world is to hold a position that keeps us from following him. Our idols must come down for us to mature in Christ. While it is a step of faith to believe Jesus, following him is meant to be a life style lived with faith. It is an act of love and devotion. At first we may think following him is a duty. But as he leads us day by day in situation after situation we learn to trust him at the core of our being. We know nothing on earth, not even death, can overcome God’s love in Christ. Following him becomes an act of worship. Our confidence is greater than at the beginning of our journey, and the fear that once made us hesitant or resistant is losing its power over us. We think about Christ more and ourselves less. We do not look to him so much for what he does for us, but simply as the object of our love. We follow him simply because he is leading. We go where he goes, because he has called us to join him. We are following Jesus and there is no turning back."
+						},
+						{
+							"name": "Serve Jesus", 
+							"description": "Following Christ gives us frequent opportunities to discover and serve his interests in this world by serving others. Like Jesus, we go to people who are in spiritual darkness and proclaim the good news of the kingdom of God that he proclaimed. We become agents of mercy and justice since our Lord is the source of all mercy and justice. We love as we have been loved and serve in the name and authority of Christ Jesus. Sometimes service is enjoyable; other times exceedingly difficult and even painful. Some gladly receive our service; others question our motives or hate us. Yet, fixing our eyes upon Christ we embrace the opportunities that come our way. As we mature, we learn when to say yes, and how to say no. We are more concerned with people knowing Christ than our receiving recognition, so we appreciate being overlooked and forgotten so that those whom we serve may encounter Jesus. We serve Jesus Christ, not ourselves."
+						},
+						{
+							"name": "Transformed by Jesus", 
+							"description": "Amazed at the transformation he is accomplishing within us, we are compelled by the love of Christ. There is clear evidence of the Holy Spirit bearing fruit in us such that we glorify God. Loving Christ, our priorities are drastically different from what they were. Peace permeates us, of which we are not often consciously aware. We worship him, serve him, and pray without ceasing. Our thankful heart has us lifting up praises to God in all circumstances. We know that our transformation is not our doing, it is God’s power at work in us, enabling us to live as holy people in the midst of a sin filled world. Dying to our own desires, we live for Christ. We do not show off, yet people close to us notice changes in us. Some do not like what they see or hear; others think we are crazy. We are not interested in what others think, but only what our Lord says. Our eternal perspective makes no sense to those who do not know Christ. We may have trouble explaining it, but we know the reality of our transformation; we are a new creation. We stay focused on Christ, pointing to him and inviting others to become his disciples."
+						},
+						{
+							"name": "Christ in Me", 
+							"description": "In the midst of growth, we come to view ourselves in the light of Scripture. We are grasping the mystery of our faith, which is Christ in us, a truth that we may have heard multiple times but never quite understood until now. We are truly a temple of the Holy Spirit. Christ abides in us, we abide in him, and we know that apart from him we can do nothing. Like the apostle Paul we know that we are not our own, for the life we live is being lived in Christ. The one in whom the fullness of deity was pleased to dwell has taken up residency in us. That Christ dwells in us and we in him is a mystery to be sure, but true nonetheless. Loving Christ enables us to see that he is not somewhere far away from us, but in us. What we do with our body matters since we are the temple of the Holy Spirit. We grasp the truth that Christ walks with us, talks with us, and tells us that he loves us. The Holy Spirit dwells within us, fulfilling Christ’s promise that he and the Father would abide with us. That the Lord of heaven and earth would dwell in vessels such as us is unimaginable, but true!"
+						}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfDisciples", 
-						"pageTitle": "Love of Disciples"
-					}
+						"pageTitle": "Love of Disciples",
+						"introBlock" : [
+							"In our selfishness, we have no love for Christ's disciples. We do not know them because we do not know Christ. But God opens the door for us to cross paths with Jesus' disciples. We encounter them and notice something different about them, but because of spiritual battles we may be resistant for a time. In time, as the Holy Spirit softens our heart to the things of God, we begin to accept the disciples and discover who Jesus is. Eventually we come to value fellowship with them, sharing the ups and downs of life together. We learn that what is ours is theirs because it is all God's. The humanity of his disciples confronts us when they fail or let us down. If we forget that they are human and forget the fallen nature of this age, we risk turning away. But if we love the disciples like Jesus loves them, we remain faithful to him and his disciples, even to those who cause us pain. Growth leads to our embracing Christ's disciples, understanding that we are all human. We depend on the grace of God and love because God first loved us."
+						]
+					},
+					"scripture": "By this all men will know that you are My disciples, if you have love for one another. (John 13:35)",
+					"transformations" : [
+						{
+							"name": "No Word of Life", 
+							"description": "Before loving Christ and our heavenly Father, we had no knowledge of Jesus’ disciples, either past or present. We had no interest in who they were or how they lived and spread the message of Christ. We had no love for those who lived and died as people of faith. Our self-love kept us far from Christ’s disciples, who are offering us the word of life."
+						},
+						{
+							"name": "Encounter Disciples", 
+							"description": "Before we develop a love for Jesus, we typically cross paths with his disciples. They may be co-workers or neighbors. Perhaps they are friends or family members. We might be with them at school or in a shared interest. It is possible that we encounter disciples through a book, movie, or song. Somehow, somewhere, we encounter his disciples. We may recognize some but not others. Our encounters may be direct or indirect. As our paths cross we see or hear something that catches our attention. We notice something different in their character. Though we may not be able to put our finger on what it is, we sense something uncommon. Coming to know Jesus often begins with encountering his disciples. This is typically the first step towards Christian maturity. Rejecting his disciples can keep people from discovering Christ himself for what we do to them we are doing to him.  However the gospel reaches us, there is no escaping that to know and love Jesus includes encounters with his disciples."
+						},
+						{
+							"name": "Resist Disciples", 
+							"description": "When we first encounter Christ’s disciples, we may be turned off by them. Something about them bothers us, but we cannot specifically say why. We are blind to the reality of spiritual warfare. Maybe we are uneasy around them or taken back by them. We might think they are “religious” or “holier than thou”. Whatever the reason, and though we cannot name it, we are repelled by Jesus and his disciples. When we start to mature, we realize that it really had nothing to do with them, but something spiritual that was going on within us. Nevertheless, during this period we cannot truly hear the disciples or the gospel as we are uncomfortable around them and avoid them. We are blind and resistant."
+						},
+						{
+							"name": "Accept Disciples", 
+							"description": "Being drawn by God’s Spirit we begin to hear and accept the message through the disciples and find ourselves drawn to them. For some this is turned around in that when we accept his disciples we are then able to hear their message. Either way, we begin accepting his disciples, and through them we come to know Christ. It is in receiving Christ that we can truly accept his disciples. We meet his disciples in the Scriptures, and interact with present day disciples with all their flaws and issues. As we grow in our love of Christ, we also learn to appreciate his disciples. Our love for Jesus’ disciples is growing."
+						},
+						{
+							"name": "Fellowship with Disciples", 
+							"description": "As we grow in Christ we pass from resisting his disciples to desiring fellowship with them. We increasingly want to spend time with the people of God. We find ourselves praying for them and offering assistance in their times of need. In the past we did not freely give our time, our finances, or ourselves to be a blessing to others. But now we find that is exactly what we are offering to Christ by assisting his disciples.  We enjoy their company, and share in their struggles.  Sometimes fellowship takes place in the open as we gather together. Other times fellowship occurs when we help someone privately or anonymously. However it happens, we notice that we engage in fellowship with an increasing frequency, and find our hearts increasing in love for his disciples."
+						},
+						{
+							"name": "Humanity of Disciples", 
+							"description": "There is an important truth about Jesus’ disciples that we must keep in mind; they are human beings. There is a risk of focusing on his disciples rather than on Christ. We risk putting our confidence in people rather than God, or turning away from God because of people. We need to remember that those who follow Jesus are still human beings. As we grow in our knowledge and love of Christ, there is a tendency to focus on his disciples rather than on Christ. If we focus on his disciples and forget that they are still human beings, we develop a distorted view of them. When they do or say things that do not match our expectations, we become disenchanted. Some people have turned away from Christ and his church as a result, others weakened by another disciple wrestling with their own issues. However, if we remember that disciples are human beings and we stay focused on Christ, then such situations become opportunities to offer grace to those who disappoint us. They can be opportunities to reach out to people who have been hurt by Christ’s followers as we put the focus back on Christ where it belongs.  We may even find ourselves being further transformed as we wrestle with our expectations and disappointments in light of Christ. On our journey towards Christian maturity we need to accept that Christians are human beings. We need to make the choice to focus on Christ and not them. As we look at Christ we realize that all of his disciples ran away  the night he was betrayed by one of his disciples.  He was denied by Peter, the one who seemed to have the most confidence and boldness.  Learning to love like Jesus loves means we continue to love even in times of disappointment or worse. That kind of response is only possible when we are in Christ. When we face challenging issues with other disciples and respond in love, we know that the Holy Spirit is bearing fruit."
+						},
+						{
+							"name": "Embrace Disciples", 
+							"description": "Perhaps the biggest hurdle in loving his disciples is in accepting the humanity of Christ’s followers and the reality of this fallen world, then extending grace to his followers.  Such an embrace marks a significant transition in our maturity. Along the way we may get stung by some disciples and be hurt. In all likelihood, we will be disappointed more times than we can imagine. But since we are aware of ourselves and what we have done to others, even to Christ himself, we realize that we are no different from other disciples. We hurt others without intending to do so. We let people down and do not always do what they expect from followers of Christ. We do these things without knowing it. We are human beings in a fallen world and we share life with other human beings in this same world. By the grace of God we do not run away and hide or turn away from Jesus’ disciples. Instead, we rally around them and embrace them. We look to restore his disciples just as Christ did for the one who had denied him and the others who had deserted him.  Though they had ran off or claimed they never knew him, Jesus went to them, restored them, encouraged them, and gave them the Great Commission of spreading the gospel and making disciples. When we love his disciples like Jesus did,   we know that Christ-like love has transplanted our formerly self-centeredness love. As a result we are able to embrace his disciples and love like him."
+						}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfNeighbor", 
-						"pageTitle": "Love of Neighbor"
-					}
+						"pageTitle": "Love of Neighbor",
+						"introBlock" : [
+							"Jesus said the greatest commandment is to love God and close behind it is to love our neighbors as ourselves. True love of neighbor is impossible for us in our fallen nature and self-centeredness. Apart from God, our love is driven by how we benefit. From our self-centered perspective, we define our neighbors by their proximity to us and direct connection to us. We include family, our neighborhood, people we like at work and school, those in our region, culture, nation, and even our church. Though our view of who is a neighbor expands, it remains self-focused. Our perspective under goes a transformation through the redeeming work of Jesus Christ when we become his followers. We learn to truly love our neighbors by learning how to love Christ's disciples. As we mature and grow in Christ, we draw our definition of neighbor from Christ and his love. He gave his life so that all who believe in him may have eternal life. Having come to know that we are in Christ, we view everyone as a neighbor and make the choice to love everyone we encounter since we are now focused on Christ's interests, not our own."
+						]
+					},
+					"scripture": "And he answered, 'You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.' (Luke 10:27)",
+					"transformations" :[
+						{
+							"name": "What’s In It For Me", 
+							"description": "From our first breath, we are learning how to interact with others and discovering our neighbors. These discoveries are not typically intentional, but develop out of our needs. As new born babies our neighbors are mom, dad, and our family. They take care of us, especially as they feed and change us. When we are not getting what we need we fuss until they respond to us. Born into this fallen world with a fallen nature, we do not know or seek God. Everything is filtered through our perspective and limited to our self-centered world. As a result, our understanding of neighbor is limited and distorted. We think only of ourselves and our interests. We have to be taught how to interact with others, to share our toys, and to say please and thank you. We have to be taught to consider other people’s feelings. Though we are learning to interact with others, we remain self-focused. We are influenced by what we can get by what we say and do. Other people are not our primary concern even when we feel good about specific people. We spend time with others and learn to do things for them, but at the core of our being we are selfish. We compare others to ourselves, not seeing them as made in the image and likeness of God. Rather than a Christ-like filter, we process things by how it benefits us and view our neighbors in terms of self-interest."
+						},
+						{
+							"name": "Something In Common", 
+							"description": "As we grow physically and mentally our world increases as do the places where we find neighbors. New people come into our life, yet we do not lose our self-focus, but simply discover new benefits with more people. If asked to identify our neighbors, we speak in terms of geography. Those who live next door, share backyards, or are on our street are our neighbors. Those whom we like and make us feel good are easily identified. In our heart we dismiss the people we do not like very much. We ignore them or interact only when necessary since they are no benefit to us. We do not love them because we are not concerned about them. The selfishness residing deep within our soul comes to the surface even as we spend time with and do things for others. In time our understanding of neighbor expands to include those who live in our town, go to our school, and work with us. Geographically our view of neighbors is expanding. Being part of society, we learn how to interact with others. We become aware of what is considered acceptable social behavior in various situations, which can vary by the people involved, the situation and even the location. We say that we are looking out for others and ourselves, which is true to the extent we are conditioned and trained to do so. But our heart is still self-centered, not Christ-centered. We are selective in who we accept in our town, school, and work so that not everyone is viewed as a neighbor. Adult life further expands our qualifications for a neighbor. Regional issues, events, and circumstance challenge us to consider people in a larger geographical area as potential neighbors. Our cultural background may influence our view of neighbors, especially when encountering those from other cultures. We find comfort in thinking of people from our culture as neighbors because they are like us. In today’s world, we tend to view those who live in our nation as neighbors when issues concern us at a national level. But our fallen nature is still active, for one day we picture people in our region, culture, or nation as neighbors, and then another these same people are dismissed in our minds because they disagree with us on what we see as key concerns. Our flip-flopping may not be deliberate or hateful, yet it highlights the self-centeredness deep within our heart.  They are neighbors as long as we have things in common."
+						},
+						{
+							"name": "Perspective Shift", 
+							"description": "Prior to our coming to faith in Christ, our view of neighbor is driven by self-interest. But when Christ captures our heart and mind the way we identify and interact with would-be neighbors starts undergoing a major transformation. The internal shift takes place over time as we mature in Christ and learn to die to self. The classifications that ranged from local neighborhood to nation continue to be part of how we define a neighbor, but even those categories are expanding because of Christ and the gospel. New classifications impact our thinking and actions as we mature and face the ongoing challenge of loving our neighbors. Love remains a choice we have to make moment by moment. The difference we see in ourselves now is that through Christ we are learning to be aware of our choices as well as the internal battle that can take place within us. Being in Christ leads us to intentionally love others. "
+						},
+						{
+							"name": "Church", 
+							"description": "As we connect with Jesus’ Church our definition of neighbor widens to include a local church and its larger governing body. Though we are in Christ, we may be challenged to think of people in other churches or braches of Christianity as neighbors since we view our church through our relationships and experience. Furthermore, since growing in maturity happens gradually, we battle against our selfish nature and deal with the spiritual reality of an enemy who seeks to steal, kill, and destroy. As we mature, we recognize that other churches serve the varying needs of Christ’s followers and the community. We discover that, like all branches of the Christian faith, our branch also has a specific emphasis, which is just one of the concerns Christ has for his people. We wrestle with how to respond in love when differences are highlighted. We make progress as we realize that those who are not like us are nevertheless part of the body of Christ. As we listen to Christ, his teachings challenge us to align our view of neighbor with his. By God’s grace, we seriously consider and apply what it means to love our neighbors."
+						},
+						{
+							"name": "Jesus’ Disciples", 
+							"description": "In the context learning to live for Christ as part of his Church, our maturity really takes root when we understand that we are to be Christ's disciples and love the other disciples. Sometimes the choice to love Jesus’ disciples is difficult and stretches us. Sometimes our attempts to love are not well received. Yet, we do not love his disciples because they are lovable, sometimes they are not, we love because Jesus’ modeled love so we follow his lead. In the process, we find that loving each other, being disciples with all our faults and failures, prepares us to truly love our neighbors. To show grace to Jesus’ followers when they fall short is the choice to love. As we receive grace from them in our failures and short comings, we learn what love looks and feels like. As we follow Jesus and his disciples through the Gospel accounts, we encounter his love for them. The more we pay attention to him, the more aware we become that we are to love like him as we hear his command that his disciples love one another.  His love becomes our love when we really listen to him and put what he says into practice by actually loving others. We make a conscious choice to love those who let us down or hurt us. We experience love in choosing to help those in need and forgiving those whose sin harms us. In Christ we find that being available and vulnerable in the midst of a community of believers demonstrates love of neighbor. In the context of a faith community we experience God’s redeeming love through our neighbors. His disciples are the neighbors we serve, not fully realizing that we are serving Christ.  In Christ, as part of a community of disciples, we experience the life transformation that enables us to crucify our love of self and live in the love of Christ so that we can truly love our neighbors."
+						},
+						{
+							"name": "Everyone I Encounter", 
+							"description": "As a result of the life transformation initiated through the gospel and brought about by the Holy Spirit dwelling in us, our love moves towards Christian maturity. Our self-centered love is being replaced with godly love.  We are grasping the big picture of God as our Father and Creator, and seeking to understand what it means to be created in His image. We come face to face with the realities of our fallen world and of people being lost in darkness. We hear Jesus’ commission to make disciples of all nations. All this makes its way into our heart and leads us to repent. We realize that we have not yet truly loved our neighbors. We have not served their interests, or more importantly, Christ’s interests in them because we have been more concerned about we get or what it costs us. But now we know that we have been bought with a price, the blood of Christ. In Christ we encounter the love that we want to flow out through us and into others. The Holy Spirit is bearing in us the fruit of love  in ways we had not previously known or understood. The result is that we begin to see everyone we encounter as a neighbor. We do not see people as we used to see them.  We do not focus on what we might gain, but on their coming to know Christ Jesus and what that could mean for them. We are loving like Jesus with a love that is manifest in our compassion for the hurting and extending grace and truth to those who need grace and truth. Neighbors are no longer limited to our neighborhood, community, nation, church, or even to those who are Jesus’ disciples. We love those who walk with Christ as well as those who are far from him and do not know him. Neighbors are found every place we go since they are in line and in traffic with us, including the ones that cut in front of us. They are the people we learn about in the news, including the ones in other nations and on other continents. These are the neighbors whom we love. Love flows from us in face to face settings. Love flows through our prayers for individuals and groups, some whom we may never meet. In every situation we consider what the most loving thing to do for another would be and do it. Sometimes love flows easily; other times it is the choice we make in the face of risk and rejection. As we mature we notice the change in our heart and are the most amazed of all. As much as it is up to us, we choose to be at peace with others. Even if others reject us, our staying focused on Christ enables us to continue loving everyone we encounter. We realize that all people everywhere are our neighbors. We also understand that even those yet to be born who will someday be here, are our neighbors. It is no longer about how we might benefit or what it costs us to love others because it is not about us at all. We love like Christ, who loved us and gave himself up for us.  Simply put, we have experienced the love of Christ and know that love covers a multitude of sins.  So we love our neighbors as ourselves with the same love we know in and through Christ."
+						}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-HealthyLoveOfSelf", 
 						"pageTitle": "Healthy Love of Self"
-					}
+					},
+					"scripture" : "The second is like it, 'You shall love your neighbor as yourself.' (Matthew 22:39)",
+					"transformations" :[
+						{"name": "It’s All About Me", "description": "--Needs content--"},
+						{"name": "Recognizing My Nature", "description": "--Needs content--"},
+						{"name": "Discovering Jesus Christ", "description": "--Needs content--"},
+						{"name": "Passions Shift", "description": "--Needs content--"},
+						{"name": "Experiencing God's Love", "description": "--Needs content--"},
+						{"name": "Hearing what God Says", "description": "--Needs content--"},
+						{"name": "It’s All About Christ", "description": "--Needs content--"}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-GodsJudgment", 
-						"pageTitle": "God’s Judgment"
-					}
+						"pageTitle": "God's Judgment"
+					},
+					"scripture" : "But let him who boasts boast of this, that he understands and knows Me, that I am the LORD who exercises lovingkindness, justice, and righteousness on earth; for I delight in these things,' declares the LORD. (Jeremiah 9:24)",
+					"transformations" :[
+						{"name": "Ignorant of God’s Warnings", "description": "--Needs content--"},
+						{"name": "God Seems Unfair", "description": "--Needs content--"},
+						{"name": "Recognition of Sin", "description": "--Needs content--"},
+						{"name": "Acceptance of God’s Judgment", "description": "--Needs content--"},
+						{"name": "God Is Just", "description": "--Needs content--"}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-ForgivingOthers", 
 						"pageTitle": "Forgiving Others"
-					}
+					},
+					"scripture" : "For if you forgive men for their transgressions, your heavenly Father will also forgive you. But if you do not forgive men, then your Father will not forgive your transgressions. (Matthew 6:14-15)",
+					"transformations" :[
+						{"name": "Hurt and Blind", "description": "--Needs content--"},
+						{"name": "Forgiveness in the Gospel", "description": "--Needs content--"},
+						{"name": "Struggles to Forgive", "description": "--Needs content--"},
+						{"name": "Freedom in Forgiveness", "description": "--Needs content--"},
+						{"name": "Learning to Forgive", "description": "--Needs content--"},
+						{"name": "Forgiven and Forgiving", "description": "--Needs content--"}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfEnemy", 
 						"pageTitle": "Love of Enemy"
-					}
+					},
+					"scripture" : "You have heard that it was said, ‘You shall love your neighbor, and hate your enemy.’ But I say to you, love your enemies, and pray for those who persecute you in order that you may be sons of your Father who is in heaven; for He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. (Matthew 5:43-45)",
+					"transformations" :[
+						{"name": "Ridiculous", "description": "--Needs content--"},
+						{"name": "Unreachable", "description": "--Needs content--"},
+						{"name": "Challenging", "description": "--Needs content--"},
+						{"name": "Desirable", "description": "--Needs content--"},
+						{"name": "Doable", "description": "--Needs content--"},
+						{"name": "Natural", "description": "--Needs content--"}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LovingAsChrist", 
 						"pageTitle": "Loving as Christ"
-					}
+					},
+					"scripture" : "This is My commandment, that you love one another, just as I have loved you. (John 15:12)",
+					"transformations" :[
+						{"name": "Christ’s Love Is Unknown", "description": "--Needs content--"},
+						{"name": "Christ’s Love for Humanity", "description": "--Needs content--"},
+						{"name": "Loving Those with a Bad Reputation - Matthew", "description": "--Needs content--"},
+						{"name": "Loving Those Who Lack Faith - Thomas", "description": "--Needs content--"},
+						{"name": "Loving Those Who Do not Get It - Peter", "description": "--Needs content--"},
+						{"name": "Loving Those Who Hurt Us - Judas", "description": "--Needs content--"},
+						{"name": "Loving Those Fighting Against Me - Paul", "description": "--Needs content--"},
+						{"name": "Loving as Christ Loved", "description": "--Needs content--"}
+					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-NoGreaterLove", 
 						"pageTitle": "No Greater Love"
-					}
+					},
+					"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
+					"transformations" :[
+						{"name": "Not Thinking About It", "description": "--Needs content--"},
+						{"name": "Choosing Myself", "description": "--Needs content--"},
+						{"name": "Encountering Jesus", "description": "--Needs content--"},
+						{"name": "Abiding in Jesus", "description": "--Needs content--"},
+						{"name": "Living for Christ", "description": "--Needs content--"},
+						{"name": "Laying Myself Down for Others", "description": "--Needs content--"},
+						{"name": "Greater Love Has No One Than This", "description": "--Needs content--"}
+					]
 				}
 			]
 		}, 
@@ -82,7 +279,162 @@
 				"htmlFileName": "TrustsInJesus", 
 				"bodyClassName": "trust",
 				"pageTitle": "Trusts in Jesus"
-			}
+			},
+   			"characteristics": [
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-MoreThanExistence", 
+						"pageTitle" : "More Than Existence"
+					},
+					"scripture" : "You believe that God is one. You do well; the demons also believe, and shudder. (James 2:19)",
+					"transformations" : [	
+						{"name": "Ignorant of God’s Existence", "description": "--Needs content--"},
+						{"name": "Something Greater", "description": "--Needs content--"},
+						{"name": "Beyond a Reasonable Doubt", "description": "--Needs content--"},
+						{"name": "Hearing God Speak", "description": "--Needs content--"},
+						{"name": "An Intimate Relationship", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-RevealingGod", 
+						"pageTitle" : "Revealing God"
+					},
+					"scripture" : "Jesus said to him, 'Have I been so long with you, and yet you have not come to know Me, Philip? He who has seen Me has seen the Father; how do you say, 'Show us the Father '?' (John 14:9)",
+					"transformations" : [	
+						{"name": "Making Myself Known", "description": "--Needs content--"},
+						{"name": "Awareness of God", "description": "--Needs content--"},
+						{"name": "Self-Realization", "description": "--Needs content--"},
+						{"name": "Set Apart", "description": "--Needs content--"},
+						{"name": "Revealing God", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-KnowledgeOfGod", 
+						"pageTitle" : "Knowledge of God"
+					},
+					"scripture" : "Jesus said to them, 'If God were your Father, you would love Me; for I proceeded forth and have come from God, for I have not even come on My own initiative, but He sent Me.' (John 8:42)",
+				   	"transformations" : [	
+						{"name": "I Know Nothing", "description": "--Needs content--"},
+						{"name": "Limited Knowledge", "description": "--Needs content--"},
+						{"name": "Exposed to the Truth", "description": "--Needs content--"},
+						{"name": "Encountering God in Scripture", "description": "--Needs content--"},
+						{"name": "Discovering God through Challenges", "description": "--Needs content--"},
+						{"name": "Reflecting God in Our Character", "description": "--Needs content--"},
+						{"name": "Intimacy with God", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-BaptismAsEntryIntoCommunity", 
+						"pageTitle" : "Baptism as Entry into Community"
+					},
+					"scripture" : "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit (Matthew 28:19)",
+					"transformations" : [	
+						{"name": "Outside the Community", "description": "--Needs content--"},
+						{"name": "Steps towards Christ", "description": "--Needs content--"},
+						{"name": "Entry into the Community", "description": "--Needs content--"},
+						{"name": "Extending the Invitation", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-CommunionAsSharedCommunity", 
+						"pageTitle" : "Communion as Shared Community"
+					},
+					"scripture" : "For I received from the Lord that which I also delivered to you, that the Lord Jesus in the night in which He was betrayed took bread; and when He had given thanks, He broke it, and said, 'This is My body, which is for you; do this in remembrance of Me.' In the same way He took the cup also, after supper, saying, 'This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.' For as often as you eat this bread and drink the cup, you proclaim the Lord's death until He comes. (1 Corinthians 11:23-26)",
+					"transformations" : [	
+						{"name": "No Part in Christ", "description": "--Needs content--"},
+						{"name": "Christ’s Invitation", "description": "--Needs content--"},
+						{"name": "Lord and Savior", "description": "--Needs content--"},
+						{"name": "Proclaiming Christ", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-DevotionToChrist", 
+						"pageTitle" : "Devotion to Christ"
+					},
+					"scripture" : "But I am afraid, lest as the serpent deceived Eve by his craftiness, your minds should be led astray from the simplicity and purity of devotion to Christ. (2 Corinthians 11:3)",
+					"transformations" : [	
+						{"name": "No Interest in Christ", "description": "--Needs content--"},
+						{"name": "Christ Seems Interesting", "description": "--Needs content--"},
+						{"name": "Battles Rage", "description": "--Needs content--"},
+						{"name": "From Effort to Heart", "description": "--Needs content--"},
+						{"name": "Completely Devoted", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-EmpoweredByTheHolySpirit", 
+						"pageTitle" : "Empowered by the Holy Spirit"
+					},
+					"scripture" : "But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth. (Acts 1:8)",
+					"transformations" : [	
+						{"name": "Without the Spirit", "description": "--Needs content--"},
+						{"name": "Discovering the Holy Spirit", "description": "--Needs content--"},
+						{"name": "Born of the Holy Spirit", "description": "--Needs content--"},
+						{"name": "Led by the Holy Spirit", "description": "--Needs content--"}
+					]
+				},
+    			{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-FaithTakesAction", 
+						"pageTitle" : "Faith Takes Action"
+					},
+					"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
+					"transformations" : [
+						{"name": "No Knowledge", "description": "--Needs content--"},
+						{"name": "Faith that Hears", "description": "--Needs content--"},
+						{"name": "Faith that Saves", "description": "--Needs content--"},
+						{"name": "Faith that Grows", "description": "--Needs content--"},
+						{"name": "Faith that Loves", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-ReturnAndResurrection", 
+						"pageTitle" : "Return and Resurrection"
+					},
+					"scripture" : "For as in Adam all die, so also in Christ all shall be made alive. But each in his own order: Christ the first fruits, after that those who are Christ's at His coming, (1 Corinthians 15:22-23)",
+					"transformations" : [	
+						{"name": "Without Hope", "description": "--Needs content--"},
+						{"name": "Hope in the Promises", "description": "--Needs content--"},
+						{"name": "Growing in Confidence", "description": "--Needs content--"},
+						{"name": "Living Expectantly", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-NewsToShare", 
+						"pageTitle" : "News to Share"
+					},
+					"scripture" : "But how can they call on him to save them unless they believe in him? And how can they believe in him if they have never heard about him? And how can they hear about him unless someone tells them? (Romans 10:14 NLT)",
+					"transformations" : [	
+						{"name": "World Without Christ", "description": "--Needs content--"},
+						{"name": "Missing the Gospel", "description": "--Needs content--"},
+						{"name": "Encountering the Gospel", "description": "--Needs content--"},
+						{"name": "Stirred and Challenged", "description": "--Needs content--"},
+						{"name": "Growing in the Gospel", "description": "--Needs content--"},
+						{"name": "More to It", "description": "--Needs content--"},
+						{"name": "For God’s Glory", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {
+						"htmlFileName":  "Trusts-Endurance", 
+						"pageTitle" : "Endurance"
+					},
+					"scripture" : "And you will be hated by all on account of My name, but the one who endures to the end, he shall be saved. (Mark 13:13)",
+					"transformations" : [	
+						{"name": "No Strength to Endure", "description": "--Needs content--"},
+						{"name": "Called to Follow", "description": "--Needs content--"},
+						{"name": "Enabled to Endure", "description": "--Needs content--"},
+						{"name": "Remaining Faithful", "description": "--Needs content--"}
+					]
+				}
+			]
 		},
 		{
 			"categoryName": "Time", 
@@ -90,7 +442,127 @@
 				"htmlFileName": "TimeWithJesus", 
 				"bodyClassName": "time",
 				"pageTitle": "Time with Jesus"
-			}
+			},
+			"characteristics" : [	
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-DiscoveringGod'sWill",  
+						"pageTitle" : "Discovering God's Will"
+					}, 
+					"scripture" : "For the grace of God has appeared, bringing salvation to all men, instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age, looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus; who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself a people for His own possession, zealous for good deeds. (Titus 2:11-14)",
+					"transformations" : [	
+						{"name": "Pursuing My Will All the Time", "description": "--Needs content--"},
+						{"name": "A Call to Follow", "description": "--Needs content--"},
+						{"name": "God’s Will for His Creation", "description": "--Needs content--"},
+						{"name": "God’s Will Be Done", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-SubmittingToTheLord",  
+						"pageTitle" : "Submitting to the Lord"
+					}, 
+					"transformations" : [	
+						{"name": "Slave to My Sins", "description": "--Needs content--"},
+						{"name": "Encountering Christ", "description": "--Needs content--"},
+						{"name": "Christ Is Savior", "description": "--Needs content--"},
+						{"name": "Christ Is Lord", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-TrustingTheLord",  
+						"pageTitle" : "Trusting the Lord"
+					}, 
+					"transformations" : [	
+						{"name": "Trusting Myself", "description": "--Needs content--"},
+						{"name": "Steps toward Trusting", "description": "--Needs content--"},
+						{"name": "Learning to Trust", "description": "--Needs content--"},
+						{"name": "Completely Trustworthy", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-SpiritualDisciplines",  
+						"pageTitle" : "Spiritual Disciplines"
+					}, 
+					"transformations" : [	
+						{"name": "Undisciplined in Spirit", "description": "--Needs content--"},
+						{"name": "Cautious Discipline", "description": "--Needs content--"},
+						{"name": "Integrating Disciplines", "description": "--Needs content--"},
+						{"name": "Daily Walk", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-FellowshipThroughPrayer",  
+						"pageTitle" : "Fellowship Through Prayer"
+						}, 
+					"transformations" : [	
+						{"name": "I Don't Need to Pray", "description": "--Needs content--"},
+						{"name": "First Prayer", "description": "--Needs content--"},
+						{"name": "Prayer for New Birth", "description": "--Needs content--"},
+						{"name": "Growing in Prayer", "description": "--Needs content--"},
+						{"name": "Deepening Prayer Life", "description": "--Needs content--"},
+						{"name": "Praying without Ceasing", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-FellowshipThroughScripture",  
+						"pageTitle" : "Fellowship Through Scripture"
+					}, 
+					"transformations" : [	
+						{"name": "Biblically Illiterate", "description": "--Needs content--"},
+						{"name": "Entering into the Scriptures", "description": "--Needs content--"},
+						{"name": "Digging into Scripture", "description": "--Needs content--"},
+						{"name": "Going Deeper through Study", "description": "--Needs content--"},
+						{"name": "Hiding the Word in Our Heart", "description": "--Needs content--"},
+						{"name": "Shifting Our Focus", "description": "--Needs content--"},
+						{"name": "Informed by Scripture", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-FellowshipInWorship",  
+						"pageTitle" : "Fellowship in Worship"
+					}, 
+					"transformations" : [	
+						{"name": "Bowing Before No One", "description": "--Needs content--"},
+						{"name": "A Heart Being Drawn", "description": "--Needs content--"},
+						{"name": "Bowing before Christ", "description": "--Needs content--"},
+						{"name": "Gaining Insight", "description": "--Needs content--"},
+						{"name": "A Surrendered Heart", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-DoingLifeTogether",  
+						"pageTitle" : "Doing Life Together"
+					}, 
+					"transformations" : [	
+						{"name": "Committed to Myself", "description": "--Needs content--"},
+						{"name": "Invited to Gather", "description": "--Needs content--"},
+						{"name": "Building Connections", "description": "--Needs content--"},
+						{"name": "Entering the Body", "description": "--Needs content--"},
+						{"name": "Given by God", "description": "--Needs content--"},
+						{"name": "Life Together", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Time-TimeDoesTell",  
+						"pageTitle" : "Time Does Tell"
+					}, 
+					"transformations" : [	
+						{"name": "My Time is My Business", "description": "--Needs content--"},
+						{"name": "Sporadic at Best", "description": "--Needs content--"},
+						{"name": "Periodically", "description": "--Needs content--"},
+						{"name": "Daily Time", "description": "--Needs content--"},
+						{"name": "Constant and Untiring", "description": "--Needs content--"}
+					]
+				}
+			]
 		},
 		{
 			"categoryName": "Lives", 
@@ -98,7 +570,127 @@
 				"htmlFileName": "LivesForJesus", 
 				"bodyClassName": "lives",
 				"pageTitle": "Lives for Jesus"
-			}
+			},
+			"characteristics" : [	
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-OutsideTheComfortZone",  
+						"pageTitle" : "Outside the Comfort Zone"
+					}, 
+					"transformations" : [	
+						{"name": "Living with Comfort", "description": "--Needs content--"},
+						{"name": "Challenged to Change", "description": "--Needs content--"},
+						{"name": "Willing to Be Changed", "description": "--Needs content--"},
+						{"name": "Growing in Grace", "description": "--Needs content--"},
+						{"name": "Beyond Comfort Zones", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+					"htmlFileName":  "Lives-InvitingOthersToFollow",  
+					"pageTitle" : "Inviting Others to Follow"
+					}, 
+					"transformations" : [	
+						{"name": "Not Following Christ", "description": "--Needs content--"},
+						{"name": "Learning to Follow", "description": "--Needs content--"},
+						{"name": "Committed to Following", "description": "--Needs content--"},
+						{"name": "Learning to Invite Others", "description": "--Needs content--"},
+						{"name": "Compelled to Invite", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-UsingOurSpiritualGifts",  
+						"pageTitle" : "Using Our Spiritual Gifts"
+					}, 
+					"transformations" : [	
+						{"name": "What’s In it for Me", "description": "--Needs content--"},
+						{"name": "Discovering God's Plan", "description": "--Needs content--"},
+						{"name": "Encountering the Body of Christ", "description": "--Needs content--"},
+						{"name": "Part of a Body", "description": "--Needs content--"},
+						{"name": "Discovering My Gifts", "description": "--Needs content--"},
+						{"name": "Using My Gifts", "description": "--Needs content--"},
+						{"name": "For the Sake of Others", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-ServingTheKing",  
+						"pageTitle" : "Serving the King"
+					}, 
+					"transformations" : [	
+						{"name": "Serving Myself", "description": "--Needs content--"},
+						{"name": "He Becomes My Teacher", "description": "--Needs content--"},
+						{"name": "I Submit to Him as Lord", "description": "--Needs content--"},
+						{"name": "Sent as an Ambassador", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-KingdomGiving",  
+						"pageTitle" : "Kingdom Giving"
+					}, 
+					"transformations" : [	
+						{"name": "Managing My Money", "description": "--Needs content--"},
+						{"name": "My Heart but Not My Wallet", "description": "--Needs content--"},
+						{"name": "Occasional Giving", "description": "--Needs content--"},
+						{"name": "Recognizing What Is Christ's", "description": "--Needs content--"},
+						{"name": "Regular Giving", "description": "--Needs content--"},
+						{"name": "Giving Above and Beyond", "description": "--Needs content--"},
+						{"name": "It is All Christ's", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-InvestingInOthers",  
+						"pageTitle" : "Investing in Others"
+					}, 
+					"transformations" : [	
+						{"name": "Not Growing Spiritually", "description": "--Needs content--"},
+						{"name": "Learning to Receive from Others", "description": "--Needs content--"},
+						{"name": "Life Transformed by Christ", "description": "--Needs content--"},
+						{"name": "Moving Beyond Myself", "description": "--Needs content--"},
+						{"name": "Investing Intentionally", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-LivingForGod",  
+						"pageTitle" : "Living for God"
+					}, 
+					"transformations" : [	
+						{"name": "Deciding What’s Best", "description": "--Needs content--"},
+						{"name": "Surprised by What’s Best", "description": "--Needs content--"},
+						{"name": "Hungering for God", "description": "--Needs content--"},
+						{"name": "For the Glory of God", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-CitizenInTheKingdomofGod",  
+						"pageTitle" : "Citizen in the Kingdom of God"
+					}, 
+					"transformations" : [	
+						{"name": "Local Loyalty", "description": "--Needs content--"},
+						{"name": "My Loyalties Are Unstable", "description": "--Needs content--"},
+						{"name": "Loyalty Shifting", "description": "--Needs content--"},
+						{"name": "Citizenship Affirmed", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Lives-KingdomMission",  
+						"pageTitle" : "Kingdom Mission"
+					}, 
+					"transformations" : [	
+						{"name": "My Mission and Vision", "description": "--Needs content--"},
+						{"name": "Encountering the Mission", "description": "--Needs content--"},
+						{"name": "Supporting Missions", "description": "--Needs content--"},
+						{"name": "Seeing the Bigger Picture", "description": "--Needs content--"},
+						{"name": "Mission Being Accomplished", "description": "--Needs content--"}
+					]
+				}
+			]
 		},
 		{
 			"categoryName": "Talks", 
@@ -106,7 +698,129 @@
 				"htmlFileName": "TalksAboutJesus", 
 				"bodyClassName": "talks",
 				"pageTitle": "Talks about Jesus"
-			}
+			},
+				"characteristics" : [	
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-PersonalTestimonyAboutJesus",  
+							"pageTitle" : "Personal Testimony about Jesus"
+						}, 
+						"transformations" : [	
+							{"name": "Jesus Isn’t Impacting My Life", "description": "--Needs content--"},
+							{"name": "Intrigued by Jesus", "description": "--Needs content--"},
+							{"name": "Challenged by Jesus", "description": "--Needs content--"},
+							{"name": "Committing to Christ", "description": "--Needs content--"},
+							{"name": "Transformed by Christ", "description": "--Needs content--"},
+							{"name": "How Jesus Changed Me", "description": "--Needs content--"},
+							{"name": "Declaring Jesus is the Christ", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-PassingOnWhatWeReceived",  
+							"pageTitle" : "Passing on What We Received"
+						}, 
+						"transformations" : [	
+							{"name": "I Pass on What Interests Me", "description": "--Needs content--"},
+							{"name": "Influential Teachings", "description": "--Needs content--"},
+							{"name": "Applying Some Teachings", "description": "--Needs content--"},
+							{"name": "Confronted by Teachings", "description": "--Needs content--"},
+							{"name": "Embodying Teachings", "description": "--Needs content--"},
+							{"name": "Sharing What Jesus Taught", "description": "--Needs content--"},
+							{"name": "Teachings Lived Out", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-ChristJesus'Roles",  
+							"pageTitle" : "Christ Jesus' Roles"
+						}, 
+						"transformations" : [	
+							{"name": "Dealing with My Issues", "description": "--Needs content--"},
+							{"name": "Recognizing My Need for Help", "description": "--Needs content--"},
+							{"name": "Discovering Who Christ Is", "description": "--Needs content--"},
+							{"name": "Reaching Out to Christ", "description": "--Needs content--"},
+							{"name": "Uniqueness of Jesus", "description": "--Needs content--"},
+							{"name": "Proclaiming Jesus in All of His Roles", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-ThePromisedHolySpirit",  
+							"pageTitle" : "The Promised Holy Spirit"
+						}, 
+						"transformations" : [	
+							{"name": "There is No Holy Spirit", "description": "--Needs content--"},
+							{"name": "Hearing the Promise", "description": "--Needs content--"},
+							{"name": "Receiving the Promise", "description": "--Needs content--"},
+							{"name": "Learning to Walk in the Spirit", "description": "--Needs content--"},
+							{"name": "Walking in the Spirit", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-TheOldTestamentandJesus",  
+							"pageTitle" : "The Old Testament and Jesus"
+						}, 
+						"transformations" : [	
+							{"name": "The Old Testament is Irrelevant", "description": "--Needs content--"},
+							{"name": "From Jesus’ Own Lips", "description": "--Needs content--"},
+							{"name": "Intrigged to Explore", "description": "--Needs content--"},
+							{"name": "Embracing the Connections", "description": "--Needs content--"},
+							{"name": "Finding Jesus in the Old Testament", "description": "--Needs content--"},
+							{"name": "Grasping the God's Whole Story", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-ThingsToCome",  
+							"pageTitle" : "Things to Come"
+						}, 
+						"transformations" : [	
+							{"name": "No One Can Know Things to Come", "description": "--Needs content--"},
+							{"name": "Jesus Spoke of Future Things", "description": "--Needs content--"},
+							{"name": "Trusting Jesus is Right", "description": "--Needs content--"},
+							{"name": "A Warning and A Hope", "description": "--Needs content--"},
+							{"name": "Not Surprised and Not Shaken", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-JesusWillReturn",  
+							"pageTitle" : "Jesus Will Return"
+						}, 
+						"transformations" : [	
+							{"name": "Concentrating on My Future", "description": "--Needs content--"},
+							{"name": "Challenged by the Future", "description": "--Needs content--"},
+							{"name": "Believing Christ will Return", "description": "--Needs content--"},
+							{"name": "Looking for Jesus’ Coming", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-BodilyResurrection",  
+							"pageTitle" : "Bodily Resurrection"
+						}, 
+						"transformations" : [	
+							{"name": "My End is Death", "description": "--Needs content--"},
+							{"name": "Death Is Not the End", "description": "--Needs content--"},
+							{"name": "Hope of the Resurrection", "description": "--Needs content--"},
+							{"name": "Raised to New Life", "description": "--Needs content--"}
+						]
+					},
+					{
+						"pageInfo": {  
+							"htmlFileName":  "Talks-SpeaksLikeJesus",  
+							"pageTitle" : "Speaks like Jesus"
+						}, 
+						"transformations" : [	
+							{"name": "Speaking Like the World", "description": "--Needs content--"},
+							{"name": "Discovering Jesus", "description": "--Needs content--"},
+							{"name": "Jesus becomes My Topic of Conversation", "description": "--Needs content--"},
+							{"name": "His Words Spreading Through Me", "description": "--Needs content--"}
+					]
+				}
+			]
 		},
 		{
 			"categoryName": "Looks", 
@@ -114,7 +828,135 @@
 				"htmlFileName": "LooksLikeJesus", 
 				"bodyClassName": "looks",
 				"pageTitle": "Looks like Jesus"
-			}
+			},
+			"characteristics" : [	
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-Humility",  
+						"pageTitle" : "Humility"
+					}, 
+					"transformations" : [	
+						{"name": "Pride", "description": "--Needs content--"},
+						{"name": "Jesus Challenges My Pride", "description": "--Needs content--"},
+						{"name": "Submission to Christ", "description": "--Needs content--"},
+						{"name": "A Living Sacrifice", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-FruitOfTheSpirit",  
+						"pageTitle" : "Fruit of the Spirit"
+					}, 
+					"transformations" : [	
+						{"name": "Fruitless Spiritually", "description": "--Needs content--"},
+						{"name": "Discovering the Promise", "description": "--Needs content--"},
+						{"name": "Recoginzing My Need", "description": "--Needs content--"},
+						{"name": "Holy Spirit Comes", "description": "--Needs content--"},
+						{"name": "Spirit Bearing Fruit", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-SetApart",  
+						"pageTitle" : "Set Apart"
+					}, 
+					"transformations" : [	
+						{"name": "Conforming to the World", "description": "--Needs content--"},
+						{"name": "My View of the World Challenged", "description": "--Needs content--"},
+						{"name": "Life Changing Gospel", "description": "--Needs content--"},
+						{"name": "Learning to Be in the World but Not of It", "description": "--Needs content--"},
+						{"name": "Set Apart for God", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-ArmorOfGod",  
+						"pageTitle" : "Armor of God"
+					}, 
+					"transformations" : [	
+						{"name": "Without Protection", "description": "--Needs content--"},
+						{"name": "Encountering God''s Armor", "description": "--Needs content--"},
+						{"name": "Discovering My Need for Armor", "description": "--Needs content--"},
+						{"name": "Established in the Truth", "description": "--Needs content--"},
+						{"name": "Right Standing with God", "description": "--Needs content--"},
+						{"name": "Protection for Enemy Attacks", "description": "--Needs content--"},
+						{"name": "Ready to Go on the Offense", "description": "--Needs content--"},
+						{"name": "Always Equipped for Battle", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-AmbassadorOfGod'sKingdom",  
+						"pageTitle" : "Ambassador of God's Kingdom"
+					}, 
+					"transformations" : [	
+						{"name": "Representing Myself", "description": "--Needs content--"},
+						{"name": "Learning of God's Kingdom", "description": "--Needs content--"},
+						{"name": "Seeking Citizenship in God's Kingdom", "description": "--Needs content--"},
+						{"name": "A New Representative", "description": "--Needs content--"},
+						{"name": "Campaigning for Christ", "description": "--Needs content--"},
+						{"name": "Appointed as an Ambassador", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-EternalPerspective",  
+						"pageTitle" : "Eternal Perspective"
+					}, 
+					"transformations" : [	
+						{"name": "Focused Only on the Here and Now", "description": "--Needs content--"},
+						{"name": "Perspective Challenged", "description": "--Needs content--"},
+						{"name": "Learning of God's Plans", "description": "--Needs content--"},
+						{"name": "My Perspective Changes", "description": "--Needs content--"},
+						{"name": "Discovering Eternal Life", "description": "--Needs content--"},
+						{"name": "Experiencing Life in Christ", "description": "--Needs content--"},
+						{"name": "An Eternal Perspective", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-BlamelessAndAboveReproach",  
+						"pageTitle" : "Blameless and Above Reproach"
+					}, 
+					"transformations" : [	
+						{"name": "No Serious Guilt", "description": "--Needs content--"},
+						{"name": "Seriousness Discovered", "description": "--Needs content--"},
+						{"name": "A Change for the Better", "description": "--Needs content--"},
+						{"name": "Cleansed by the Blood", "description": "--Needs content--"},
+						{"name": "Living Blamelessly and Above Reproach", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-SinNoMore",  
+						"pageTitle" : "Sin No More"
+					}, 
+					"transformations" : [	
+						{"name": "Ignorant of Sin", "description": "--Needs content--"},
+						{"name": "Sin Coming to Light", "description": "--Needs content--"},
+						{"name": "Am I Really a Sinner", "description": "--Needs content--"},
+						{"name": "Changes Are Occurring", "description": "--Needs content--"},
+						{"name": "Discovering Repentance", "description": "--Needs content--"},
+						{"name": "Led by God's Word", "description": "--Needs content--"},
+						{"name": "Bond Servant", "description": "--Needs content--"}
+					]
+				},
+				{
+					"pageInfo": {  
+						"htmlFileName":  "Looks-LikeOurTeacher",  
+						"pageTitle" : "Like Our Teacher"
+					}, 
+					"transformations" : [	
+						{"name": "Not Like Anybody Else", "description": "--Needs content--"},
+						{"name": "Hearing What Jesus Taught", "description": "--Needs content--"},
+						{"name": "Realizing What Jesus Taught", "description": "--Needs content--"},
+						{"name": "Accepting What Jesus Taught", "description": "--Needs content--"},
+						{"name": "Attempting What Jesus Taught", "description": "--Needs content--"},
+						{"name": "Living What Jesus Taught", "description": "--Needs content--"},
+						{"name": "Teaching What Jesus Taught", "description": "--Needs content--"}
+					]
+				}
+			]
 		}
 	]
 }
