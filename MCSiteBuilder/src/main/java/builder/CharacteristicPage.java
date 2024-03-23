@@ -52,11 +52,10 @@ public class CharacteristicPage extends HtmlPageBase {
 		if (transformations != null) {
 			sectionLines += HtmlTags.table.getTagLine();
 			for (JsonDataTransformation tranInfo : transformations) {
-				sectionLines += html.getIndent() + HtmlTags.tr.getTagLine();
-				sectionLines += html.getIndent() + html.getIndent() + HtmlTags.td.getContentTagLine(tranInfo.getName());
-				sectionLines += html.getIndent() + html.getIndent()
-						+ HtmlTags.td.getContentTagLine(tranInfo.getDescription());
-				sectionLines += html.getIndent() + HtmlTags.tr.getCloseTagLine();
+				sectionLines += getIndent() + HtmlTags.tr.getTagLine();
+				sectionLines += getIndent() + getIndent() + HtmlTags.td.getContentTagLine(tranInfo.getName());
+				sectionLines += getIndent() + getIndent() + HtmlTags.td.getContentTagLine(tranInfo.getDescription());
+				sectionLines += getIndent() + HtmlTags.tr.getCloseTagLine();
 			}
 			sectionLines += HtmlTags.table.getCloseTagLine();
 		}

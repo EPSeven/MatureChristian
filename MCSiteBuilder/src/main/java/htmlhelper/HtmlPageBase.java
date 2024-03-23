@@ -14,7 +14,6 @@ public abstract class HtmlPageBase implements PageBuilder {
 	private static final String BACK_ARROW_PNG = "back-arrow.png";
 
 	protected final JsonDataPageInfo pageInfo;
-	protected final HtmlSections html = new HtmlSections();
 
 	private final Path filePath;
 
@@ -63,12 +62,53 @@ public abstract class HtmlPageBase implements PageBuilder {
 
 	protected String getCommonTitleSection(String pageTitle) {
 		// Add the section up to where the body section starts.
-		return html.getDocType() + html.getOpenHtmlSection() + html.getOpenHeadSection() + html.getStyleSheetLink()
-				+ html.getTitleLine(pageTitle) + html.getCloseHeadSection();
+		return getDocType() + getOpenHtmlSection() + getOpenHeadSection() + getStyleSheetLink()
+				+ getTitleLine(pageTitle) + getCloseHeadSection();
+	}
+
+	protected String getDocType() {
+		return "<!DOCTYPE html>\r\n";
+	}
+
+	protected String getOpenHtmlSection() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("lang", "en");
+
+		return HtmlTags.html.getTagLineWithAttributes(attributes);
+	}
+
+	protected String getCloseHtmlSection() {
+		return HtmlTags.html.getCloseTagLine();
+	}
+
+	protected String getOpenHeadSection() {
+		return HtmlTags.head.getTagLine();
+	}
+
+	protected String getStyleSheetLink() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("rel", "stylesheet");
+		attributes.addAttribute("href", "styles.css");
+
+		return HtmlTags.link.getTagLineWithAttributes(attributes);
+	}
+
+	protected String getCloseHeadSection() {
+		return HtmlTags.head.getCloseTagLine();
+	}
+
+	protected String getTitleLine(String pageTitle) {
+		return getIndent() + HtmlTags.title.getTag() + pageTitle + HtmlTags.title.getCloseTagLine();
+	}
+
+	protected String getCloseBodySection() {
+		return HtmlTags.body.getCloseTagLine();
 	}
 
 	protected String getBodyByClass(String bodyClassName) {
-		return html.getOpenBodyByClass(bodyClassName);
+		return HtmlTags.body.getTagLineWithClass(bodyClassName);
 	}
 
 	protected String getPageHeading() {
@@ -141,6 +181,10 @@ public abstract class HtmlPageBase implements PageBuilder {
 	}
 
 	protected String getCommonClose() {
-		return html.getCloseBodySection() + html.getCloseHtmlSection();
+		return getCloseBodySection() + getCloseHtmlSection();
+	}
+
+	protected String getIndent() {
+		return "\t";
 	}
 }
