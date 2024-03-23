@@ -21,6 +21,7 @@ public class CategoryPage extends HtmlPageBase {
 	protected String getCustomBodyContent() {
 		String contentLines = "";
 
+		contentLines += getPageIntroduction();
 		contentLines += getCharacteristicPageLinksSection();
 		contentLines += getCategoryNavigationSection();
 
