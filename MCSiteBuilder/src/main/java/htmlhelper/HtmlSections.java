@@ -2,11 +2,15 @@ package htmlhelper;
 
 public class HtmlSections {
 	public String getDocType() {
-		return "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n";
+		return "<!DOCTYPE html>\r\n";
 	}
 
 	public String getOpenHtmlSection() {
-		return HtmlTags.html.getTagLine();
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("lang", "en");
+
+		return HtmlTags.html.getTagLineWithAttributes(attributes);
 	}
 
 	public String getCloseHtmlSection() {
