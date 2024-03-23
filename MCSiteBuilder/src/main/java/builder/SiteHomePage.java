@@ -1,5 +1,7 @@
 package builder;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 import htmlhelper.HtmlPageBase;
@@ -40,12 +42,15 @@ public class SiteHomePage extends HtmlPageBase {
 
 	private String getUnderConstruction() {
 		HtmlTagAttributes attributes = new HtmlTagAttributes();
+		LocalDateTime currentDateTime = LocalDateTime.now();
+		DateTimeFormatter dtFormatter = DateTimeFormatter.ofPattern("eeee, dd-MMM-yyyy 'at' K:mm a");
+		String dateTimeStr = currentDateTime.format(dtFormatter);
 
 		attributes.addAttribute("src", "images/under-construction.png");
 		attributes.addAttribute("alt", "Under Construction");
 
-		return HtmlTags.center.getTagLine() + HtmlTags.img.getTagWithAttributes(attributes)
-				+ HtmlTags.center.getCloseTagLine();
+		return HtmlTags.center.getTagLine() + HtmlTags.img.getTagWithAttributes(attributes) + HtmlTags.br.getTag()
+				+ "Last updated : " + dateTimeStr + HtmlTags.center.getCloseTagLine();
 	}
 
 	private String getLinksToCategoryPages() {
