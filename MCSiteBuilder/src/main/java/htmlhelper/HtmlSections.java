@@ -2,7 +2,7 @@ package htmlhelper;
 
 public class HtmlSections {
 	public String getDocType() {
-		return "<!DOCTYPE html>\r\n";
+		return "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n";
 	}
 
 	public String getOpenHtmlSection() {
