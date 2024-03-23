@@ -40,6 +40,7 @@ public abstract class HtmlPageBase implements PageBuilder {
 
 			// Add the body and page heading.
 			pageFile.write(getBodyByClass(pageInfo.getBodyClassName()));
+			pageFile.write(getEndOfLine());
 			pageFile.write(getPageHeading());
 
 			// All the derived classes to add their body content.
@@ -60,66 +61,35 @@ public abstract class HtmlPageBase implements PageBuilder {
 		return filePath.toString();
 	}
 
+	protected String getIndent() {
+		return "  ";
+	}
+
+	protected String getEndOfLine() {
+		return "\r\n";
+	}
+
 	protected String getCommonTitleSection(String pageTitle) {
-		// Add the section up to where the body section starts.
-		return getDocType() + getOpenHtmlSection() + getOpenHeadSection() + getStyleSheetLink()
-				+ getTitleLine(pageTitle) + getCloseHeadSection();
-	}
+		String sectionLines = "";
 
-	protected String getDocType() {
-		return "<!DOCTYPE html>\r\n";
-	}
+		// Add DocType and head tags.
+		sectionLines += getDocType();
+		sectionLines += getOpenHtmlSection();
 
-	protected String getOpenHtmlSection() {
-		HtmlTagAttributes attributes = new HtmlTagAttributes();
+		// Add the head tag and all the contents that go into head.
+		sectionLines += getOpenHeadSection();
+		sectionLines += getIndent() + getMetaDataCharset();
+		sectionLines += getIndent() + getMetaDataViewport();
+		sectionLines += getIndent() + getStyleSheetLink();
+		sectionLines += getIndent() + getTitleLine(pageTitle);
+		sectionLines += getCloseHeadSection();
+		sectionLines += getEndOfLine();
 
-		attributes.addAttribute("lang", "en");
-
-		return HtmlTags.html.getTagLineWithAttributes(attributes);
-	}
-
-	protected String getCloseHtmlSection() {
-		return HtmlTags.html.getCloseTagLine();
-	}
-
-	protected String getOpenHeadSection() {
-		return HtmlTags.head.getTagLine();
-	}
-
-	protected String getStyleSheetLink() {
-		HtmlTagAttributes attributes = new HtmlTagAttributes();
-
-		attributes.addAttribute("rel", "stylesheet");
-		attributes.addAttribute("href", "styles.css");
-
-		return HtmlTags.link.getTagLineWithAttributes(attributes);
-	}
-
-	protected String getCloseHeadSection() {
-		return HtmlTags.head.getCloseTagLine();
-	}
-
-	protected String getTitleLine(String pageTitle) {
-		return getIndent() + HtmlTags.title.getTag() + pageTitle + HtmlTags.title.getCloseTagLine();
-	}
-
-	protected String getCloseBodySection() {
-		return HtmlTags.body.getCloseTagLine();
+		return sectionLines;
 	}
 
 	protected String getBodyByClass(String bodyClassName) {
 		return HtmlTags.body.getTagLineWithClass(bodyClassName);
-	}
-
-	protected String getPageHeading() {
-		String pageHeading;
-
-		pageHeading = pageInfo.getCustomPageHeading();
-		if (pageHeading == null) {
-			pageHeading = pageInfo.getPageTitle();
-		}
-
-		return HtmlTags.h1.getContentTagLine(pageHeading);
 	}
 
 	protected String getPageIntroduction() {
@@ -129,9 +99,9 @@ public abstract class HtmlPageBase implements PageBuilder {
 		if (introLines != null) {
 			introSection += HtmlTags.p.getTagLine();
 			for (String introText : introLines) {
-				introSection += HtmlTags.div.getTagLineWithClass("intro");
-				introSection += introText + "\r\n";
-				introSection += HtmlTags.div.getCloseTagLine();
+				introSection += getIndent() + HtmlTags.div.getTagLineWithClass("intro");
+				introSection += getIndent() + getIndent() + introText + getEndOfLine();
+				introSection += getIndent() + HtmlTags.div.getCloseTagLine();
 			}
 			introSection += HtmlTags.p.getCloseTagLine();
 		}
@@ -149,21 +119,90 @@ public abstract class HtmlPageBase implements PageBuilder {
 		return HtmlTags.h2.getContentTagLine(pageLink);
 	}
 
-	protected String getNavIconImg(String iconFileName) {
-		HtmlTagAttributes imgAttributes = new HtmlTagAttributes();
-
-		imgAttributes.addAttribute("class", "nav-icon");
-		imgAttributes.addAttribute("src", "images/" + iconFileName);
-
-		return HtmlTags.img.getTagWithAttributes(imgAttributes);
-	}
-
 	protected String getBackArrowNavLink(JsonDataPageInfo pageInfo) {
 		return getNavLink(BACK_ARROW_PNG, pageInfo.getHtmlFileName(), "Back to " + pageInfo.getPageTitle());
 	}
 
 	protected String getHomePageNavLink() {
 		return getNavLink(HOME_ICON_PNG, "index", "Back to Home Page");
+	}
+
+	protected String getCloseBodySection() {
+		return HtmlTags.body.getCloseTagLine();
+	}
+
+	protected String getCloseHtmlSection() {
+		return HtmlTags.html.getCloseTagLine();
+	}
+
+	private String getDocType() {
+		return "<!DOCTYPE html>" + getEndOfLine();
+	}
+
+	private String getOpenHtmlSection() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("lang", "en-us");
+
+		return HtmlTags.html.getTagLineWithAttributes(attributes);
+	}
+
+	private String getOpenHeadSection() {
+		return HtmlTags.head.getTagLine();
+	}
+
+	private String getMetaDataCharset() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("charset", "UTF-8");
+
+		return HtmlTags.meta.getTagLineWithAttributes(attributes);
+	}
+
+	private String getMetaDataViewport() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("name", "viewport");
+		attributes.addAttribute("content", "width=device-width, initial-scale=1.0");
+
+		return HtmlTags.meta.getTagLineWithAttributes(attributes);
+	}
+
+	private String getStyleSheetLink() {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("rel", "stylesheet");
+		attributes.addAttribute("href", "styles.css");
+
+		return HtmlTags.link.getTagLineWithAttributes(attributes);
+	}
+
+	private String getTitleLine(String pageTitle) {
+		return HtmlTags.title.getTag() + pageTitle + HtmlTags.title.getCloseTagLine();
+	}
+
+	private String getCloseHeadSection() {
+		return HtmlTags.head.getCloseTagLine();
+	}
+
+	private String getPageHeading() {
+		String pageHeading;
+
+		pageHeading = pageInfo.getCustomPageHeading();
+		if (pageHeading == null) {
+			pageHeading = pageInfo.getPageTitle();
+		}
+
+		return HtmlTags.h1.getContentTagLine(pageHeading);
+	}
+
+	private String getNavIconImg(String iconFileName) {
+		HtmlTagAttributes imgAttributes = new HtmlTagAttributes();
+
+		imgAttributes.addAttribute("class", "nav-icon");
+		imgAttributes.addAttribute("src", "images/" + iconFileName);
+
+		return HtmlTags.img.getTagWithAttributes(imgAttributes);
 	}
 
 	private String getNavLink(String imgFileName, String pageFileName, String linkText) {
@@ -180,11 +219,7 @@ public abstract class HtmlPageBase implements PageBuilder {
 		return HtmlTags.h2.getContentTagLine(pageLink);
 	}
 
-	protected String getCommonClose() {
-		return getCloseBodySection() + getCloseHtmlSection();
-	}
-
-	protected String getIndent() {
-		return "\t";
+	private String getCommonClose() {
+		return getEndOfLine() + getCloseBodySection() + getCloseHtmlSection();
 	}
 }

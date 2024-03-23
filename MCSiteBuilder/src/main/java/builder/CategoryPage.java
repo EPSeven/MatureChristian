@@ -21,8 +21,15 @@ public class CategoryPage extends HtmlPageBase {
 	protected String getCustomBodyContent() {
 		String contentLines = "";
 
+		// Introduction block.
 		contentLines += getPageIntroduction();
+		contentLines += getEndOfLine();
+
+		// Block containing the links to the characteristic pages.
 		contentLines += getCharacteristicPageLinksSection();
+		contentLines += getEndOfLine();
+
+		// Page navigation block.
 		contentLines += getCategoryNavigationSection();
 
 		return contentLines;
@@ -45,7 +52,7 @@ public class CategoryPage extends HtmlPageBase {
 				pageInfo.setBodyClassName(category.getPageInfo().getBodyClassName());
 				htmlFileName = pageInfo.getHtmlFileName() + ".html";
 
-				linkLines += getPageLinkLine(htmlFileName, pageInfo.getPageTitle());
+				linkLines += getIndent() + getPageLinkLine(htmlFileName, pageInfo.getPageTitle());
 			}
 		}
 
@@ -53,6 +60,12 @@ public class CategoryPage extends HtmlPageBase {
 	}
 
 	private String getCategoryNavigationSection() {
-		return HtmlTags.p.getTagLine() + super.getHomePageNavLink() + HtmlTags.p.getCloseTagLine();
+		String sectionLines = "";
+
+		sectionLines += HtmlTags.p.getTagLine();
+		sectionLines += getIndent() + getHomePageNavLink();
+		sectionLines += HtmlTags.p.getCloseTagLine();
+
+		return sectionLines;
 	}
 }

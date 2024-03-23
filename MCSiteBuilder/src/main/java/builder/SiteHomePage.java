@@ -26,9 +26,11 @@ public class SiteHomePage extends HtmlPageBase {
 
 		// Add the "Under Construction" notification. THIS IS TEMPORARY.
 		contentLines += getUnderConstruction();
+		contentLines += getEndOfLine();
 
 		// Introduction text.
 		contentLines += getPageIntroduction();
+		contentLines += getEndOfLine();
 
 		// Add the links to all the category pages.
 		contentLines += getCategoryPageLinksSection();
@@ -65,7 +67,7 @@ public class SiteHomePage extends HtmlPageBase {
 
 				htmlFileName = pageInfo.getHtmlFileName() + ".html";
 
-				linkLines += getPageLinkLine(htmlFileName, pageInfo.getPageTitle());
+				linkLines += getIndent() + getPageLinkLine(htmlFileName, pageInfo.getPageTitle());
 			}
 		}
 

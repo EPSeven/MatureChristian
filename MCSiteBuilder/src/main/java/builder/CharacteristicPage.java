@@ -24,9 +24,19 @@ public class CharacteristicPage extends HtmlPageBase {
 	protected String getCustomBodyContent() {
 		String contentLines = "";
 
+		// Block containing the scripture focusing the characteristic.
 		contentLines += getScriptureSection();
+		contentLines += getEndOfLine();
+
+		// Introduction block.
 		contentLines += getPageIntroduction();
+		contentLines += getEndOfLine();
+
+		// Block for the transformations.
 		contentLines += getTransformations();
+		contentLines += getEndOfLine();
+
+		// Page navigation block.
 		contentLines += getCharacteristicNavigationSection();
 
 		return contentLines;
@@ -38,7 +48,7 @@ public class CharacteristicPage extends HtmlPageBase {
 
 		if (scripture != null) {
 			sectionLines += HtmlTags.p.getTagLineWithClass("scripture");
-			sectionLines += scripture;
+			sectionLines += getIndent() + scripture + getEndOfLine();
 			sectionLines += HtmlTags.p.getCloseTagLine();
 		}
 
@@ -67,8 +77,8 @@ public class CharacteristicPage extends HtmlPageBase {
 		String sectionLines = "";
 
 		sectionLines += HtmlTags.p.getTagLine();
-		sectionLines += super.getBackArrowNavLink(category.getPageInfo());
-		sectionLines += super.getHomePageNavLink();
+		sectionLines += getIndent() + getBackArrowNavLink(category.getPageInfo());
+		sectionLines += getIndent() + getHomePageNavLink();
 		sectionLines += HtmlTags.p.getCloseTagLine();
 
 		return sectionLines;

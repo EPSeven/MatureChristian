@@ -1,7 +1,7 @@
 package htmlhelper;
 
 public enum HtmlTags {
-	html, head, link, title, body, h1, h2, table, tr, td, div, p, br, a, img, center;
+	html, head, meta, link, title, body, h1, h2, table, tr, td, div, p, br, a, img, center;
 
 	public String getTagLineWithClass(String tagClassName) {
 		HtmlTagAttributes attributes = new HtmlTagAttributes();
