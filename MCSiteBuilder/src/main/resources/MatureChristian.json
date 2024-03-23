@@ -181,23 +181,50 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-HealthyLoveOfSelf", 
-						"pageTitle": "Healthy Love of Self"
+						"pageTitle": "Healthy Love of Self",
+						"introBlock" : [
+							"Apart from Christ we only know and love ourselves in an unhealthy manner. We think it is all about us. In moments where we think we see things from another perspective, we still fall back into self-centeredness when the way we operate is challenged. Maturity means discovering who we are in Christ as he abides in us and we in him. God's Spirit enables us to live for Christ rather than ourselves. Maturity in Christ, from the standpoint of a healthy self-love, is recognizable when we are living with an eternal perspective. In Christ we are able to see ourselves, others, and all creation from the perspective of God's self-revelation. This eternal perspective enables us to love ourselves as God intended. We seek His glory as we love God and our neighbors, not thinking more highly or poorly of ourselves now that we realize that we belong to God."
+						]
 					},
-					"scripture" : "The second is like it, 'You shall love your neighbor as yourself.' (Matthew 22:39)",
+					"scripture" : "The second is like it, &quot;You shall love your neighbor as yourself.&quot; (Matthew 22:39)",
 					"transformations" :[
-						{"name": "It's All About Me", "description": "--Needs content--"},
-						{"name": "Recognizing My Nature", "description": "--Needs content--"},
-						{"name": "Discovering Jesus Christ", "description": "--Needs content--"},
-						{"name": "Passions Shift", "description": "--Needs content--"},
-						{"name": "Experiencing God's Love", "description": "--Needs content--"},
-						{"name": "Hearing what God Says", "description": "--Needs content--"},
-						{"name": "It's All About Christ", "description": "--Needs content--"}
+						{
+							"name": "It's All About Me", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Recognizing My Nature", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Discovering Jesus Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Passions Shift", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Experiencing God's Love", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Hearing what God Says", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "It's All About Christ", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-GodsJudgment", 
-						"pageTitle": "God's Judgment"
+						"pageTitle": "God's Judgment",
+						"introBlock" : [
+							"Christian maturity involves our coming to terms with God's love in light of His judgment. God's love will not allow sin to have the final say for His Creation. He has revealed that sin and death will be eradicated. When we enter life, we are ignorant of God's warnings. As we grow, selfishness comes naturally to us. Nothing within us keeps us from sin. We think it is a ridiculous claim when we first hear that God judges sin and that we will face His judgment. We know we are not perfect, but we think we are not that bad and that it would be unfair of God to judge us. Along the way we become aware of sin in our lives, though we would not call it sin since that term bothers us. But as our knowledge of Christ increases and we learn to trust him, we are able to accept that God's judgment is not in opposition to His love, but a necessary aspect of His love. We realize that sin is judged in Christ and that we are forgiven in Christ. This truth frees us from judging others and leads to our praying for those who sin against us. We trust in God's goodness and that He is just. In Christ, we not only know God's judgment through Christ, but we are moved to warn others and point them to Christ so that they too can encounter God's grace and mercy. We see forgiveness in light of God's judgment, not as an escape."
+						]						
 					},
 					"scripture" : "But let him who boasts boast of this, that he understands and knows Me, that I am the LORD who exercises lovingkindness, justice, and righteousness on earth; for I delight in these things,' declares the LORD. (Jeremiah 9:24)",
 					"transformations" :[
@@ -211,7 +238,10 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-ForgivingOthers", 
-						"pageTitle": "Forgiving Others"
+						"pageTitle": "Forgiving Others",
+						"introBlock" : [
+							"We are a mature Christian when we have been transformed by the love of Christ such that we forgive those who have sinned against us. We have come to know and experience that love does indeed cover a multitude of sins. In our self-centeredness we were not willing or able to forgive others. But in Christ, we have experienced the forgiveness of our own sins and know the freedom of forgiving others. We have come to true faith, for we believe that our being forgiven leads us to forgive others, and we gladly do so. We do not keep a list of the ways we have been wronged or seek to get even. We know that God sees all and will deal justly with every wrong. We also know that Christ is God's means of justice for all sin, so rather than hoping a person suffers at the hands of God for what they have done, we pray for God to have mercy and that those who have harmed us may find forgiveness in Christ. We do not want them to remain enemies, but through the cross of Christ become brothers and sisters. We forgive because we love like Jesus."
+						]						
 					},
 					"scripture" : "For if you forgive men for their transgressions, your heavenly Father will also forgive you. But if you do not forgive men, then your Father will not forgive your transgressions. (Matthew 6:14-15)",
 					"transformations" :[
@@ -226,7 +256,10 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfEnemy", 
-						"pageTitle": "Love of Enemy"
+						"pageTitle": "Love of Enemy",
+						"introBlock" : [
+							"One mark of a mature Christian is that we love our enemies. At first, Jesus' command to love our enemies sounds ridiculous. As we get to know Christ, we wrestle with his teaching, no longer writing it off as ridiculous even though it still seems unrealistic and unreachable. Jesus never changes his mind about us loving our enemies, which challenges us to change as we grow in our knowledge of him as our Lord and Savior, learning to obey him even though we do not know how to do it yet. As we mature we face situations where our heart goes out to those, who by all rights could be seen as an enemy either personally or corporately, but we now see them through a renewed heart and choose to pray for them. Our change of heart leads to loving those who harm, frighten, or throw us off kilter. The more we pray, the more doable loving our enemies becomes. Love is the choice we now make more frequently. Day in and out, with a heart and mindset of love, we find loving our enemies as the natural thing to do. Our heart transformation now sees that it is ridiculous to be bound up in bitterness and hatred over an enemy. Experience shows us the reality that loving our enemies honors God and is best for us. It is the life transforming work of the Holy Spirit that bears fruit in us so that we do love our enemies."
+						]						
 					},
 					"scripture" : "You have heard that it was said, 'You shall love your neighbor, and hate your enemy.' But I say to you, love your enemies, and pray for those who persecute you in order that you may be sons of your Father who is in heaven; for He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. (Matthew 5:43-45)",
 					"transformations" :[
@@ -241,7 +274,10 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-LovingAsChrist", 
-						"pageTitle": "Loving as Christ"
+						"pageTitle": "Loving as Christ",
+						"introBlock" : [
+							"A mature Christian is someone who loves like Jesus. Relationships are messy. We may be let down. They can be painful. They may impact our reputation. There are those who, thinking they have it all figured out, end up causing problems for us. Nevertheless, we choose to love each one by not blaming them or revealing their faults to harm them. Though someone may betray us, we will do nothing to betray them. We maintain hope even for those who persecute us, for we see a bigger reality in Christ. We love like he loves. Watching how Jesus loved his disciples stirs us to greater love. We observe Jesus' love for Matthew and Thomas. We see it frequently with Peter. We are stretched by how he responds to Judas and Paul. Because we ourselves have been transformed by the love of Christ, we love like he does. No one who is self-centered can love like Jesus. But everything changes when we grasp the good news of how God first loved us and sent his Son revealing His love through the cross in order to reconcile us to Himself. A mature love does not focus on circumstances, but occurs in the midst of every circumstance, even the messy ones, as we choose to love like Jesus."
+						]						
 					},
 					"scripture" : "This is My commandment, that you love one another, just as I have loved you. (John 15:12)",
 					"transformations" :[
@@ -258,7 +294,10 @@
 				{
 					"pageInfo": {
 						"htmlFileName": "Loves-NoGreaterLove", 
-						"pageTitle": "No Greater Love"
+						"pageTitle": "No Greater Love",
+						"introBlock" : [
+							"Selfish love never enables us to lay down our life for the sake of another. We cannot imagine laying down our right to ourselves, as that makes no sense to us. We entered life with an innate self-centered love. It is only through encountering Christ that the transformation of our love begins. Our ability and desire to love like Christ develops as we abide in him. Eventually we find ourselves living for Christ. This is a significant shift in our awareness and practice of love. We love like Christ because we know his love. The closer we are to him, the more naturally we lay down our life for the sake of others. This laying ourselves down happens each day in everything we do. It is part of who we have become in Christ. Some will make the ultimate sacrifice for the sake of another, dying at the hands of those whom we seek to love, and in the process bring glory to God. The greater love found in Jesus Christ, who laid down his life for our sake, is not just words on a page, it is God's love revealed that now inspires and guides how we live. We know and love God, who's love enables us to lay down our life for others. We lay down our life knowing the redeeming power and love of Christ. We are his disciples and we love like Jesus."
+						]						
 					},
 					"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
 					"transformations" :[
