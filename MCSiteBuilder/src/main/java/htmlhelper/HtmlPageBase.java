@@ -231,12 +231,14 @@ public abstract class HtmlPageBase implements PageBuilder {
 		attributes.clearAttributes();
 		attributes.addAttribute("src", "https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js");
 		attributes.addAttribute("type", "text/javascript");
-		contentLines += HtmlTags.script.getTagWithAttributes(attributes) + HtmlTags.script.getCloseTagLine();
+		contentLines += HtmlTags.script.getTagWithAttributes(attributes);
+		contentLines += HtmlTags.script.getCloseTagLine();
 
 		attributes.clearAttributes();
 		attributes.addAttribute("type", "text/javascript");
 		contentLines += HtmlTags.script.getTagLineWithAttributes(attributes);
 		contentLines += "BGLinks.version = \"NASB1995\";" + getEndOfLine();
+		contentLines += "BGLinks.showTooltips = false;" + getEndOfLine();
 		contentLines += "BGLinks.linkVerses();" + getEndOfLine();
 		contentLines += HtmlTags.script.getCloseTagLine();
 
