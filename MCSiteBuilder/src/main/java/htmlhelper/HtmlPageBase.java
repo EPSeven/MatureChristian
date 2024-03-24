@@ -46,6 +46,9 @@ public abstract class HtmlPageBase implements PageBuilder {
 			// All the derived classes to add their body content.
 			pageFile.write(getCustomBodyContent());
 
+			// BibleGateway javascript shows verses in popup when user hovers over verse.
+			pageFile.write(getBibleGatewayScript());
+
 			// Close out the file's last closing tags section.
 			pageFile.write(getCommonClose());
 
@@ -217,6 +220,27 @@ public abstract class HtmlPageBase implements PageBuilder {
 		pageLink += HtmlTags.a.getCloseTag();
 
 		return HtmlTags.h2.getContentTagLine(pageLink);
+	}
+
+	private String getBibleGatewayScript() {
+		String contentLines = "";
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		contentLines += getEndOfLine();
+
+		attributes.clearAttributes();
+		attributes.addAttribute("src", "https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js");
+		attributes.addAttribute("type", "text/javascript");
+		contentLines += HtmlTags.script.getTagWithAttributes(attributes) + HtmlTags.script.getCloseTagLine();
+
+		attributes.clearAttributes();
+		attributes.addAttribute("type", "text/javascript");
+		contentLines += HtmlTags.script.getTagLineWithAttributes(attributes);
+		contentLines += "BGLinks.version = \"NASB1995\";" + getEndOfLine();
+		contentLines += "BGLinks.linkVerses();" + getEndOfLine();
+		contentLines += HtmlTags.script.getCloseTagLine();
+
+		return contentLines;
 	}
 
 	private String getCommonClose() {
