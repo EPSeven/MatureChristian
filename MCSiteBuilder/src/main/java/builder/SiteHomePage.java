@@ -26,11 +26,9 @@ public class SiteHomePage extends HtmlPageBase {
 
 		// Add the "Under Construction" notification. THIS IS TEMPORARY.
 		contentLines += getUnderConstruction();
-		contentLines += getEndOfLine();
 
 		// Introduction text.
 		contentLines += getPageIntroduction();
-		contentLines += getEndOfLine();
 
 		// Add the links to all the category pages.
 		contentLines += getCategoryPageLinksSection();
@@ -52,7 +50,7 @@ public class SiteHomePage extends HtmlPageBase {
 		attributes.addAttribute("alt", "Under Construction");
 
 		return HtmlTags.center.getTagLine() + HtmlTags.img.getTagWithAttributes(attributes) + HtmlTags.br.getTag()
-				+ "Last updated : " + dateTimeStr + HtmlTags.center.getCloseTagLine();
+				+ "Last updated : " + dateTimeStr + HtmlTags.center.getCloseTagLine() + getEndOfLine();
 	}
 
 	private String getLinksToCategoryPages() {

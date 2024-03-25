@@ -24,17 +24,14 @@ public class CharacteristicPage extends HtmlPageBase {
 	protected String getCustomBodyContent() {
 		String contentLines = "";
 
-		// Block containing the scripture focusing the characteristic.
-		contentLines += getScriptureSection();
-		contentLines += getEndOfLine();
-
 		// Introduction block.
 		contentLines += getPageIntroduction();
-		contentLines += getEndOfLine();
+
+		// Block suggesting additional scripture references.
+		contentLines += getAdditionalScriptures();
 
 		// Block for the transformations.
 		contentLines += getTransformations();
-		contentLines += getEndOfLine();
 
 		// Page navigation block.
 		contentLines += getCharacteristicNavigationSection();
@@ -42,16 +39,29 @@ public class CharacteristicPage extends HtmlPageBase {
 		return contentLines;
 	}
 
-	private String getScriptureSection() {
+	private String getAdditionalScriptures() {
 		String sectionLines = "";
-		String scripture = characteristic.getScripture();
+		boolean firstScripture = true;
+		List<String> additionalScriptures = characteristic.getAdditionalScriptures();
 
-		if (scripture != null) {
-			sectionLines += HtmlTags.p.getTagLineWithClass("scripture");
-			sectionLines += getIndent() + scripture + getEndOfLine();
+		if (additionalScriptures != null) {
+			sectionLines += HtmlTags.p.getTag();
+			sectionLines += "Scriptures to explore: ";
+
+			for (String scripture : additionalScriptures) {
+				if (!firstScripture) {
+					sectionLines += "; ";
+				} else {
+					firstScripture = false;
+				}
+
+				sectionLines += scripture;
+			}
+
 			sectionLines += HtmlTags.p.getCloseTagLine();
-		}
 
+			sectionLines += getEndOfLine();
+		}
 		return sectionLines;
 	}
 
@@ -68,6 +78,8 @@ public class CharacteristicPage extends HtmlPageBase {
 				sectionLines += getIndent() + HtmlTags.tr.getCloseTagLine();
 			}
 			sectionLines += HtmlTags.table.getCloseTagLine();
+
+			sectionLines += getEndOfLine();
 		}
 
 		return sectionLines;

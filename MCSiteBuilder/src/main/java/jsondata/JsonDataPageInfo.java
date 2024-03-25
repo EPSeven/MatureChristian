@@ -11,6 +11,7 @@ public class JsonDataPageInfo {
 	private String bodyClassName;
 	private String pageTitle;
 	private String customPageHeading;
+	private String scripture;
 	private List<String> introBlock;
 
 	public String getHtmlFileName() {
@@ -29,12 +30,12 @@ public class JsonDataPageInfo {
 		return customPageHeading;
 	}
 
-	public List<String> getIntroBlock() {
-		return introBlock;
+	public String getScripture() {
+		return scripture;
 	}
 
-	public void setIntroBlock(List<String> introBlock) {
-		this.introBlock = introBlock;
+	public List<String> getIntroBlock() {
+		return introBlock;
 	}
 
 	public void setHtmlFileName(String htmlFileName) {
@@ -51,5 +52,13 @@ public class JsonDataPageInfo {
 
 	public void setCustomPageHeading(String pageHeading) {
 		this.customPageHeading = pageHeading;
+	}
+
+	public void setScripture(String scripture) {
+		this.scripture = scripture;
+	}
+
+	public void setIntroBlock(List<String> introBlock) {
+		this.introBlock = introBlock;
 	}
 }

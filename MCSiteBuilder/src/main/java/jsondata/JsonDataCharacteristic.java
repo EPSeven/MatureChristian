@@ -8,15 +8,16 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 @JsonInclude(Include.NON_NULL)
 public class JsonDataCharacteristic {
 	private JsonDataPageInfo pageInfo;
-	private String scripture;
+	private List<String> additionalScriptures;
+
 	private List<JsonDataTransformation> transformations;
 
 	public JsonDataPageInfo getPageInfo() {
 		return pageInfo;
 	}
 
-	public String getScripture() {
-		return scripture;
+	public List<String> getAdditionalScriptures() {
+		return additionalScriptures;
 	}
 
 	public List<JsonDataTransformation> getTransformations() {
@@ -27,8 +28,8 @@ public class JsonDataCharacteristic {
 		this.pageInfo = pageInfo;
 	}
 
-	public void setScripture(String scripture) {
-		this.scripture = scripture;
+	public void setAdditionalScriptures(List<String> additionalScriptures) {
+		this.additionalScriptures = additionalScriptures;
 	}
 
 	public void setTransformations(List<JsonDataTransformation> transformations) {

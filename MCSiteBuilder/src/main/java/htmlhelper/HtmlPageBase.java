@@ -43,6 +43,9 @@ public abstract class HtmlPageBase implements PageBuilder {
 			pageFile.write(getEndOfLine());
 			pageFile.write(getPageHeading());
 
+			// Block containing the scripture focusing the characteristic.
+			pageFile.write(getScriptureSection());
+
 			// All the derived classes to add their body content.
 			pageFile.write(getCustomBodyContent());
 
@@ -107,6 +110,8 @@ public abstract class HtmlPageBase implements PageBuilder {
 				introSection += getIndent() + HtmlTags.div.getCloseTagLine();
 			}
 			introSection += HtmlTags.p.getCloseTagLine();
+
+			introSection += getEndOfLine();
 		}
 
 		return introSection;
@@ -197,6 +202,20 @@ public abstract class HtmlPageBase implements PageBuilder {
 		}
 
 		return HtmlTags.h1.getContentTagLine(pageHeading);
+	}
+
+	private String getScriptureSection() {
+		String sectionLines = "";
+		String scripture = pageInfo.getScripture();
+
+		if (scripture != null) {
+			sectionLines += HtmlTags.p.getTagLineWithClass("scripture");
+			sectionLines += getIndent() + scripture + getEndOfLine();
+			sectionLines += HtmlTags.p.getCloseTagLine();
+			sectionLines += getEndOfLine();
+		}
+
+		return sectionLines;
 	}
 
 	private String getNavIconImg(String iconFileName) {

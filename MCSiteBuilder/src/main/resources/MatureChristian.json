@@ -4,6 +4,7 @@
 		"bodyClassName": "home",
 		"pageTitle": "Mature Christian",
 		"customPageHeading": "What is a Mature Christian?",
+		"scripture": "For though by this time you ought to be teachers, you have need again for someone to teach you the elementary principles of the oracles of God, and you have come to need milk and not solid food. For everyone who partakes only of milk is not accustomed to the word of righteousness, for he is a babe. But solid food is for the mature, who because of practice have their senses trained to discern good and evil. (Hebrews 5:12-14)",
 		"introBlock" : [
 			"There are a number of characteristics found in the New Testament that paint a picture of a mature Christian. Those characteristics have been grouped into the six categories found below. Explore the categories to discover the characteristics and the milestones that you are likely to encounter as you mature in Christ. A mature Christian has moved from being spiritually dead and lost, to being a mature follower of the Lord Jesus Christ. Blessings as you cooporate with the Holy Spirit at work in forming you into a mature Christian."
 		]
@@ -26,13 +27,13 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfGod", 
 						"pageTitle": "Love of God",
+						"scripture": "And He said to him, &quot;You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.&quot; (Matthew 22:37)",
 						"introBlock" : [
 							"We are mature in Christ if we have been transformed by God's love. Encountering His love leads us to love Him in return. We grow as a disciple of Jesus Christ by loving God. There was a time when we only loved ourselves, and had no interest in loving God. In fact, we had no capacity to love Him because we were far from Him.",
-							"But all that changes when, by God's grace, the gospel penetrates our heart. As a result, we begin learning about God and honestly acknowledge Him as God. We listen to Him and act on what He says, which becomes our way of daily life. Eventually, we sense God asking us to surrender to Him and to trust Him completely. We take this step by offering ourselves to Him in love. From then on, we continue to mature in the midst life's circumstances. Our trust in God continues to increase, eventually birthing in us a desire to live simply for His glory. Why do we live such a life? Because we have encountered God's life transforming love and responded to Him in love.  We love like Jesus by loving God.",
-							"Scriptures to explore: Genesis 3:1-7; Genesis 3:15; Romans 1:20-23; 1 John 4:19; 1 John 5:2"
+							"But all that changes when, by God's grace, the gospel penetrates our heart. As a result, we begin learning about God and honestly acknowledge Him as God. We listen to Him and act on what He says, which becomes our way of daily life. Eventually, we sense God asking us to surrender to Him and to trust Him completely. We take this step by offering ourselves to Him in love. From then on, we continue to mature in the midst life's circumstances. Our trust in God continues to increase, eventually birthing in us a desire to live simply for His glory. Why do we live such a life? Because we have encountered God's life transforming love and responded to Him in love.  We love like Jesus by loving God."
 						]
 					},
-					"scripture": "And He said to him, &quot;You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.&quot; (Matthew 22:37)",
+					"additionalScriptures": ["Genesis 3:1-7", "Genesis 3:15", "Romans 1:20-23", "1 John 4:19", "1 John 5:2"],
 					"transformations": [
 						{
 							"name": "Without God",
@@ -40,7 +41,7 @@
 						},
 						{
 							"name": "Acknowledge God",
-							"description": "The first step in our love's transformation is initiated by God. We learn how in the course of time, God began revealing Himself to humanity through the line of Abraham, Isaac and Jacob, along with His plan to redeem the fallen creation. Our part in the transformation process kicks in when we acknowledge God and recognize that He exists. But to become a disciple of Jesus Christ, we need to acknowledge God as the only authority and truth; that His is indeed God. We do not really grasp all it encompasses, and we certainly do not grasp the implications it is to have on our life, but we make our first move towards loving God simply by acknowledging that He is God (Acts 17:22-31). Such an acknowledgement in itself is not love, for love is more than that. Every one of us have people in our lives that we acknowledge without describing these connections as grounded in love. The same is true of our relationship with God. We can acknowledge God without loving Him. Still, our simple acknowledgement of God is a necessary step towards maturity."
+							"description": "The first step in our love's transformation is initiated by God. We learn how in the course of time, God began revealing Himself to humanity through the line of Abraham, Isaac and Jacob, along with His plan to redeem the fallen creation. Our part in the transformation process kicks in when we acknowledge God and recognize that He exists. But to become a disciple of Jesus Christ, we need to acknowledge God as the only authority and truth; that He is indeed God. We do not really grasp all it encompasses, and we certainly do not grasp the implications it is to have on our life, but we make our first move towards loving God simply by acknowledging that He is God (Acts 17:22-31). Such an acknowledgement in itself is not love, for love is more than that. Every one of us have people in our lives that we acknowledge without describing these connections as grounded in love. The same is true of our relationship with God. We can acknowledge God without loving Him. Still, our simple acknowledgement of God is a necessary step towards maturity."
 						},
 						{
 							"name": "Listen to God",
@@ -68,11 +69,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfChrist", 
 						"pageTitle": "Love of Christ",
+						"scripture": "And though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory (1 Peter 1:8)",
 						"introBlock" : [
 							"Being a mature Christian means we experience the abiding love of Christ and love him in return. At first we do not love Christ, but only love ourselves. What we may encounter about Jesus, does not lead us to follow him for we have no interest in him. Growth begins as we begin hearing that Jesus is the Christ and discovering the truth about him. Eventually we conclude that he is who he claims to be, the Son of God, the Lord of all. As we seek to understand who Jesus is, we begin to grasp what Jesus says. We reach the point where we acknowledge that as Lord, he has laid claim to our life and calls us to follow him in love, not out of duty. Conforming our will to his, we follow him and discover his interests replacing ours. Over time we notice the significant transformation has gradually taken place within us and we realize that we are no longer the same person we use to be; we are a new creation. As our love of Christ continues to mature we realize that he dwells in us and calls us his own. As we love Jesus Christ, we love like him."
 						]
 					},
-					"scripture": "And though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory (1 Peter 1:8)",
 					"transformations": [
 						{
 							"name": "Born Self-Centered", 
@@ -112,11 +113,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfDisciples", 
 						"pageTitle": "Love of Disciples",
+						"scripture": "By this all men will know that you are My disciples, if you have love for one another. (John 13:35)",
 						"introBlock" : [
 							"In our selfishness, we have no love for Christ's disciples. We do not know them because we do not know Christ. But God opens the door for us to cross paths with Jesus' disciples. We encounter them and notice something different about them, but because of spiritual battles we may be resistant for a time. In time, as the Holy Spirit softens our heart to the things of God, we begin to accept the disciples and discover who Jesus is. Eventually we come to value fellowship with them, sharing the ups and downs of life together. We learn that what is ours is theirs because it is all God's. The humanity of his disciples confronts us when they fail or let us down. If we forget that they are human and forget the fallen nature of this age, we risk turning away. But if we love the disciples like Jesus loves them, we remain faithful to him and his disciples, even to those who cause us pain. Growth leads to our embracing Christ's disciples, understanding that we are all human. We depend on the grace of God and love because God first loved us."
 						]
 					},
-					"scripture": "By this all men will know that you are My disciples, if you have love for one another. (John 13:35)",
 					"transformations" : [
 						{
 							"name": "No Word of Life", 
@@ -152,11 +153,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfNeighbor", 
 						"pageTitle": "Love of Neighbor",
+						"scripture": "And he answered, 'You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.' (Luke 10:27)",
 						"introBlock" : [
 							"Jesus said the greatest commandment is to love God and close behind it is to love our neighbors as ourselves. True love of neighbor is impossible for us in our fallen nature and self-centeredness. Apart from God, our love is driven by how we benefit. From our self-centered perspective, we define our neighbors by their proximity to us and direct connection to us. We include family, our neighborhood, people we like at work and school, those in our region, culture, nation, and even our church. Though our view of who is a neighbor expands, it remains self-focused. Our perspective under goes a transformation through the redeeming work of Jesus Christ when we become his followers. We learn to truly love our neighbors by learning how to love Christ's disciples. As we mature and grow in Christ, we draw our definition of neighbor from Christ and his love. He gave his life so that all who believe in him may have eternal life. Having come to know that we are in Christ, we view everyone as a neighbor and make the choice to love everyone we encounter since we are now focused on Christ's interests, not our own."
 						]
 					},
-					"scripture": "And he answered, 'You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.' (Luke 10:27)",
 					"transformations" :[
 						{
 							"name": "What's In It For Me", 
@@ -188,11 +189,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-HealthyLoveOfSelf", 
 						"pageTitle": "Healthy Love of Self",
+						"scripture" : "The second is like it, &quot;You shall love your neighbor as yourself.&quot; (Matthew 22:39)",
 						"introBlock" : [
 							"Apart from Christ we only know and love ourselves in an unhealthy manner. We think it is all about us. In moments where we think we see things from another perspective, we still fall back into self-centeredness when the way we operate is challenged. Maturity means discovering who we are in Christ as he abides in us and we in him. God's Spirit enables us to live for Christ rather than ourselves. Maturity in Christ, from the standpoint of a healthy self-love, is recognizable when we are living with an eternal perspective. In Christ we are able to see ourselves, others, and all creation from the perspective of God's self-revelation. This eternal perspective enables us to love ourselves as God intended. We seek His glory as we love God and our neighbors, not thinking more highly or poorly of ourselves now that we realize that we belong to God."
 						]
 					},
-					"scripture" : "The second is like it, &quot;You shall love your neighbor as yourself.&quot; (Matthew 22:39)",
 					"transformations" :[
 						{
 							"name": "It's All About Me", 
@@ -228,11 +229,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-GodsJudgment", 
 						"pageTitle": "God's Judgment",
+						"scripture" : "But let him who boasts boast of this, that he understands and knows Me, that I am the LORD who exercises lovingkindness, justice, and righteousness on earth; for I delight in these things,' declares the LORD. (Jeremiah 9:24)",
 						"introBlock" : [
 							"Christian maturity involves our coming to terms with God's love in light of His judgment. God's love will not allow sin to have the final say for His Creation. He has revealed that sin and death will be eradicated. When we enter life, we are ignorant of God's warnings. As we grow, selfishness comes naturally to us. Nothing within us keeps us from sin. We think it is a ridiculous claim when we first hear that God judges sin and that we will face His judgment. We know we are not perfect, but we think we are not that bad and that it would be unfair of God to judge us. Along the way we become aware of sin in our lives, though we would not call it sin since that term bothers us. But as our knowledge of Christ increases and we learn to trust him, we are able to accept that God's judgment is not in opposition to His love, but a necessary aspect of His love. We realize that sin is judged in Christ and that we are forgiven in Christ. This truth frees us from judging others and leads to our praying for those who sin against us. We trust in God's goodness and that He is just. In Christ, we not only know God's judgment through Christ, but we are moved to warn others and point them to Christ so that they too can encounter God's grace and mercy. We see forgiveness in light of God's judgment, not as an escape."
 						]						
 					},
-					"scripture" : "But let him who boasts boast of this, that he understands and knows Me, that I am the LORD who exercises lovingkindness, justice, and righteousness on earth; for I delight in these things,' declares the LORD. (Jeremiah 9:24)",
 					"transformations" :[
 						{"name": "Ignorant of God's Warnings", "description": "--Needs content--"},
 						{"name": "God Seems Unfair", "description": "--Needs content--"},
@@ -245,11 +246,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-ForgivingOthers", 
 						"pageTitle": "Forgiving Others",
+						"scripture" : "For if you forgive men for their transgressions, your heavenly Father will also forgive you. But if you do not forgive men, then your Father will not forgive your transgressions. (Matthew 6:14-15)",
 						"introBlock" : [
 							"We are a mature Christian when we have been transformed by the love of Christ such that we forgive those who have sinned against us. We have come to know and experience that love does indeed cover a multitude of sins. In our self-centeredness we were not willing or able to forgive others. But in Christ, we have experienced the forgiveness of our own sins and know the freedom of forgiving others. We have come to true faith, for we believe that our being forgiven leads us to forgive others, and we gladly do so. We do not keep a list of the ways we have been wronged or seek to get even. We know that God sees all and will deal justly with every wrong. We also know that Christ is God's means of justice for all sin, so rather than hoping a person suffers at the hands of God for what they have done, we pray for God to have mercy and that those who have harmed us may find forgiveness in Christ. We do not want them to remain enemies, but through the cross of Christ become brothers and sisters. We forgive because we love like Jesus."
 						]						
 					},
-					"scripture" : "For if you forgive men for their transgressions, your heavenly Father will also forgive you. But if you do not forgive men, then your Father will not forgive your transgressions. (Matthew 6:14-15)",
 					"transformations" :[
 						{"name": "Hurt and Blind", "description": "--Needs content--"},
 						{"name": "Forgiveness in the Gospel", "description": "--Needs content--"},
@@ -263,11 +264,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LoveOfEnemy", 
 						"pageTitle": "Love of Enemy",
+						"scripture" : "You have heard that it was said, 'You shall love your neighbor, and hate your enemy.' But I say to you, love your enemies, and pray for those who persecute you in order that you may be sons of your Father who is in heaven; for He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. (Matthew 5:43-45)",
 						"introBlock" : [
 							"One mark of a mature Christian is that we love our enemies. At first, Jesus' command to love our enemies sounds ridiculous. As we get to know Christ, we wrestle with his teaching, no longer writing it off as ridiculous even though it still seems unrealistic and unreachable. Jesus never changes his mind about us loving our enemies, which challenges us to change as we grow in our knowledge of him as our Lord and Savior, learning to obey him even though we do not know how to do it yet. As we mature we face situations where our heart goes out to those, who by all rights could be seen as an enemy either personally or corporately, but we now see them through a renewed heart and choose to pray for them. Our change of heart leads to loving those who harm, frighten, or throw us off kilter. The more we pray, the more doable loving our enemies becomes. Love is the choice we now make more frequently. Day in and out, with a heart and mindset of love, we find loving our enemies as the natural thing to do. Our heart transformation now sees that it is ridiculous to be bound up in bitterness and hatred over an enemy. Experience shows us the reality that loving our enemies honors God and is best for us. It is the life transforming work of the Holy Spirit that bears fruit in us so that we do love our enemies."
 						]						
 					},
-					"scripture" : "You have heard that it was said, 'You shall love your neighbor, and hate your enemy.' But I say to you, love your enemies, and pray for those who persecute you in order that you may be sons of your Father who is in heaven; for He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. (Matthew 5:43-45)",
 					"transformations" :[
 						{"name": "Ridiculous", "description": "--Needs content--"},
 						{"name": "Unreachable", "description": "--Needs content--"},
@@ -281,11 +282,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-LovingAsChrist", 
 						"pageTitle": "Loving as Christ",
+						"scripture" : "This is My commandment, that you love one another, just as I have loved you. (John 15:12)",
 						"introBlock" : [
 							"A mature Christian is someone who loves like Jesus. Relationships are messy. We may be let down. They can be painful. They may impact our reputation. There are those who, thinking they have it all figured out, end up causing problems for us. Nevertheless, we choose to love each one by not blaming them or revealing their faults to harm them. Though someone may betray us, we will do nothing to betray them. We maintain hope even for those who persecute us, for we see a bigger reality in Christ. We love like he loves. Watching how Jesus loved his disciples stirs us to greater love. We observe Jesus' love for Matthew and Thomas. We see it frequently with Peter. We are stretched by how he responds to Judas and Paul. Because we ourselves have been transformed by the love of Christ, we love like he does. No one who is self-centered can love like Jesus. But everything changes when we grasp the good news of how God first loved us and sent his Son revealing His love through the cross in order to reconcile us to Himself. A mature love does not focus on circumstances, but occurs in the midst of every circumstance, even the messy ones, as we choose to love like Jesus."
 						]						
 					},
-					"scripture" : "This is My commandment, that you love one another, just as I have loved you. (John 15:12)",
 					"transformations" :[
 						{"name": "Christ's Love Is Unknown", "description": "--Needs content--"},
 						{"name": "Christ's Love for Humanity", "description": "--Needs content--"},
@@ -301,11 +302,11 @@
 					"pageInfo": {
 						"htmlFileName": "Loves-NoGreaterLove", 
 						"pageTitle": "No Greater Love",
+						"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
 						"introBlock" : [
 							"Selfish love never enables us to lay down our life for the sake of another. We cannot imagine laying down our right to ourselves, as that makes no sense to us. We entered life with an innate self-centered love. It is only through encountering Christ that the transformation of our love begins. Our ability and desire to love like Christ develops as we abide in him. Eventually we find ourselves living for Christ. This is a significant shift in our awareness and practice of love. We love like Christ because we know his love. The closer we are to him, the more naturally we lay down our life for the sake of others. This laying ourselves down happens each day in everything we do. It is part of who we have become in Christ. Some will make the ultimate sacrifice for the sake of another, dying at the hands of those whom we seek to love, and in the process bring glory to God. The greater love found in Jesus Christ, who laid down his life for our sake, is not just words on a page, it is God's love revealed that now inspires and guides how we live. We know and love God, who's love enables us to lay down our life for others. We lay down our life knowing the redeeming power and love of Christ. We are his disciples and we love like Jesus."
 						]						
 					},
-					"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
 					"transformations" :[
 						{"name": "Not Thinking About It", "description": "--Needs content--"},
 						{"name": "Choosing Myself", "description": "--Needs content--"},
@@ -333,9 +334,13 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-MoreThanExistence", 
-						"pageTitle" : "More Than Existence"
+						"pageTitle" : "More Than Existence",
+						"scripture" : "You believe that God is one. You do well; the demons also believe, and shudder. (James 2:19)",
+						"introBlock" : [
+							"What do we mean when we say that we believe in God? Are we merely accepting the idea that there is something more than we can see? Are we supposing that there exists some kind of being that is higher than humanity? To a multitude of people, faith is seen as believing that a god exists in a general sense. But mere existence is not how the God is revealed in the Bible.",
+							"Trusting in God, having faith, goes far beyond the idea that God exists. It goes beyond that to realizing that God makes Himself known to humanity. It grows by the realization that God has spoken to His people and thus speaks to us. The mature faith of a disciple is grounded in an intimate relationship in which we trust what God says without doubt or concern for ourselves and do what He says. We believe God and thus trust Him, not just &quot;believe in the idea of God&quot;. Furthermore, as we grow as a mature Christian, we want others to know Him and are given a role in seeing that desire carried out."
+						]
 					},
-					"scripture" : "You believe that God is one. You do well; the demons also believe, and shudder. (James 2:19)",
 					"transformations" : [	
 						{"name": "Ignorant of God's Existence", "description": "--Needs content--"},
 						{"name": "Something Greater", "description": "--Needs content--"},
@@ -347,9 +352,14 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-RevealingGod", 
-						"pageTitle" : "Revealing God"
+						"pageTitle" : "Revealing God",
+						"scripture" : "Jesus said to him, &quot;Have I been so long with you, and yet you have not come to know Me, Philip? He who has seen Me has seen the Father; how do you say, 'Show us the Father '?&quot; (John 14:9)",
+						"introBlock" : [
+							"A mature Christian trusts the God who has revealed Himself. The only reason we know God exists, what He is like, what He does, and any part of His plan for His creation is because He chose to reveal Himself (Deuteronomy 4:35; Isaiah 45:5-6). No one or nothing forces God to make Himself known. Why does He reveal Himself? The Bible says we were created to know Him and make Him known (Isaiah 43:10; Isaiah 45:18; Acts 17:24-27).",
+							"God did not have to reveal Himself, nor did He have to create anything, including us. Yet He chose to create all that exists (Genesis 1:1; Ephesians 3:9; Colossians 1:16; Revelation 10:6). Though we had turned from Him, instead of turning His back on us or eliminating us from His creation, He began to reveal His plan to redeem us through Christ Jesus (Ephesians 1:3-14). God designed us so that we might know and love Him. In and of Himself, He does not need us to love Him, but being that He is love (1 John 4:7-8; 1 John 4:16), He created humanity with the capacity to love and be loved as He loves (Luke 10:27). By God’s design, He is to be the ultimate object of our love and affection (Matthew 4:10; Matthew 6:24; Matthew 22:36-38; John 8:42), thus we cannot fulfill our purpose unless God makes Himself known.",
+							"Faith aligns us as conduits through which God’s Self-revelation travels (Acts 16:31; 2 Corinthians 5:20; 2 Timothy 2:10). He make Himself known in a variety of ways including angels (though they are not His primary method). His written Word which He has given us through the Bible, plays a central role in revealing God, but it is not His primary means either. For some reason that we do not quite fully understand or explain, God has chosen human beings as His primary means for making Himself and His gospel known throughout His creation. God chooses to use those who trust this self-revelation of His to spread the news to friends, family, and future generations. We are the means through which God wants to make His name and His salvation known far and wide, even to those who label us as their enemies. Thus, Christian growth leads us to play a part in God revealing Himself."
+						]
 					},
-					"scripture" : "Jesus said to him, 'Have I been so long with you, and yet you have not come to know Me, Philip? He who has seen Me has seen the Father; how do you say, 'Show us the Father '?' (John 14:9)",
 					"transformations" : [	
 						{"name": "Making Myself Known", "description": "--Needs content--"},
 						{"name": "Awareness of God", "description": "--Needs content--"},
@@ -361,9 +371,14 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-KnowledgeOfGod", 
-						"pageTitle" : "Knowledge of God"
+						"pageTitle" : "Knowledge of God",
+						"scripture" : "Jesus said to them, 'If God were your Father, you would love Me; for I proceeded forth and have come from God, for I have not even come on My own initiative, but He sent Me.' (John 8:42)",
+						"introBlock" : [
+							"In order to grow in our knowledge of God, we need to embrace God’s self-revelation (Hebrews 1:3; Hebrews 2:1-4). This typically happens through our contact with Christ’s followers and the Bible, which is His primary means of passing on His revelation (2 Timothy 3:16-17; 2 Peter 1:20-21). The Bible points us to God the Father, brings us to Jesus Christ His only Son, and makes us aware of the Holy Spirit. Without knowledge of God through His chosen means, we cannot grow into a mature follower of Christ. Christ, who was sent by God (John 5:23; 1 John 4:14), is the Word that became flesh (John 1:14), and he points to the Father and promises to send the Holy Spirit (John 15:26) to those who belong to him.",
+							"God has chosen to reveal Himself to humanity. He has ensured that His self-revelation, captured in the written accounts of the Bible are passed down from one generation to the next. Knowledge of God is not something we are born with or something we naturally seek. Rather, God provides us with people and opportunities intended to stir us to seek Him.",
+							"It is impossible for us to move to a level of a mature and intimate knowledge of God apart from the written Word of God. God desires that we know Him, which goes beyond book knowledge, for it leads us to completely trust Him. This trust grows as we notice God working in our life and proving Himself faithful, even if we have doubts. True knowledge of God develops in our heart more than in our mind. It shapes our character and brings us into an intimacy with Him."
+						]
 					},
-					"scripture" : "Jesus said to them, 'If God were your Father, you would love Me; for I proceeded forth and have come from God, for I have not even come on My own initiative, but He sent Me.' (John 8:42)",
 				   	"transformations" : [	
 						{"name": "I Know Nothing", "description": "--Needs content--"},
 						{"name": "Limited Knowledge", "description": "--Needs content--"},
@@ -377,9 +392,14 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-BaptismAsEntryIntoCommunity", 
-						"pageTitle" : "Baptism as Entry into Community"
+						"pageTitle" : "Baptism as Entry into Community",
+						"scripture" : "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit (Matthew 28:19)",
+						"introBlock" : [
+							"It is hard to read the gospel accounts and Acts and without noticing that baptism has a significance for the Christian life. The beginning of Jesus' ministry is marked by his being baptized by John the Baptist (Matthew 3:13-17). Jesus' own ministry included his disciples baptizing people (John 4:1-2). Following his resurrection, Jesus instructed his disciples to make more disciples, saying that baptism will mark those who believe and will be saved (Mark 16:16). Various instances in Acts show that entry into the Christian faith was accompanied by baptism. Historically, baptism has been one component in people embracing the Christian faith and entering into the community of believers.",
+							"Baptism is a sacred act which Jesus gave the Church by which new believers are received into its fold. Baptism is a onetime step of faith much like a wedding is a onetime step that binds a couple to each other. We do not baptize ourselves, rather the community we enter into examines us to see that we are of the faith and then baptizes us (1 Corinthians 12:13), and thus marking us as a member of the body of Christ, which is the Church (Acts 2:38-40; Acts 8:12, Acts 8:36-38; Acts 9:17-18; Acts 10:47-48; Acts 16:14-15). Just as circumcision was the mark given by God to Abraham (Genesis 17:10-14) and his descendants signifying that they belonged to God, baptism marks Jesus' followers as belonging to him.",
+							"In the days of the early church, being identified with Christ was costly. To be baptized was to pledge allegiance to Christ exclusively. Some lost their family and friends when they became an outcast from society. For others, it meant death. That was true for the early church and it is still true today in some parts of the world. Most of us do not face outward conflicts when we are baptized. To some it may seem insignificant. But there is a spiritual aspect in which we are declaring a spiritual allegiance to Christ. Baptism is not just physical, it is also spiritual (Colossians 2:9-12)."
+						]
 					},
-					"scripture" : "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit (Matthew 28:19)",
 					"transformations" : [	
 						{"name": "Outside the Community", "description": "--Needs content--"},
 						{"name": "Steps towards Christ", "description": "--Needs content--"},
@@ -390,9 +410,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-CommunionAsSharedCommunity", 
-						"pageTitle" : "Communion as Shared Community"
+						"pageTitle" : "Communion as Shared Community",
+						"scripture" : "For I received from the Lord that which I also delivered to you, that the Lord Jesus in the night in which He was betrayed took bread; and when He had given thanks, He broke it, and said, 'This is My body, which is for you; do this in remembrance of Me.' In the same way He took the cup also, after supper, saying, 'This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.' For as often as you eat this bread and drink the cup, you proclaim the Lord's death until He comes. (1 Corinthians 11:23-26)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "For I received from the Lord that which I also delivered to you, that the Lord Jesus in the night in which He was betrayed took bread; and when He had given thanks, He broke it, and said, 'This is My body, which is for you; do this in remembrance of Me.' In the same way He took the cup also, after supper, saying, 'This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.' For as often as you eat this bread and drink the cup, you proclaim the Lord's death until He comes. (1 Corinthians 11:23-26)",
 					"transformations" : [	
 						{"name": "No Part in Christ", "description": "--Needs content--"},
 						{"name": "Christ's Invitation", "description": "--Needs content--"},
@@ -403,9 +425,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-DevotionToChrist", 
-						"pageTitle" : "Devotion to Christ"
+						"pageTitle" : "Devotion to Christ",
+						"scripture" : "But I am afraid, lest as the serpent deceived Eve by his craftiness, your minds should be led astray from the simplicity and purity of devotion to Christ. (2 Corinthians 11:3)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "But I am afraid, lest as the serpent deceived Eve by his craftiness, your minds should be led astray from the simplicity and purity of devotion to Christ. (2 Corinthians 11:3)",
 					"transformations" : [	
 						{"name": "No Interest in Christ", "description": "--Needs content--"},
 						{"name": "Christ Seems Interesting", "description": "--Needs content--"},
@@ -417,9 +441,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-EmpoweredByTheHolySpirit", 
-						"pageTitle" : "Empowered by the Holy Spirit"
+						"pageTitle" : "Empowered by the Holy Spirit",
+						"scripture" : "But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth. (Acts 1:8)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth. (Acts 1:8)",
 					"transformations" : [	
 						{"name": "Without the Spirit", "description": "--Needs content--"},
 						{"name": "Discovering the Holy Spirit", "description": "--Needs content--"},
@@ -430,9 +456,11 @@
     			{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-FaithTakesAction", 
-						"pageTitle" : "Faith Takes Action"
+						"pageTitle" : "Faith Takes Action",
+						"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "Greater love has no one than this, that one lay down his life for his friends. (John 15:13)",
 					"transformations" : [
 						{"name": "No Knowledge", "description": "--Needs content--"},
 						{"name": "Faith that Hears", "description": "--Needs content--"},
@@ -444,9 +472,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-ReturnAndResurrection", 
-						"pageTitle" : "Return and Resurrection"
+						"pageTitle" : "Return and Resurrection",
+						"scripture" : "For as in Adam all die, so also in Christ all shall be made alive. But each in his own order: Christ the first fruits, after that those who are Christ's at His coming, (1 Corinthians 15:22-23)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "For as in Adam all die, so also in Christ all shall be made alive. But each in his own order: Christ the first fruits, after that those who are Christ's at His coming, (1 Corinthians 15:22-23)",
 					"transformations" : [	
 						{"name": "Without Hope", "description": "--Needs content--"},
 						{"name": "Hope in the Promises", "description": "--Needs content--"},
@@ -457,9 +487,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-NewsToShare", 
-						"pageTitle" : "News to Share"
+						"pageTitle" : "News to Share",
+						"scripture" : "But how can they call on him to save them unless they believe in him? And how can they believe in him if they have never heard about him? And how can they hear about him unless someone tells them? (Romans 10:14 NLT)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "But how can they call on him to save them unless they believe in him? And how can they believe in him if they have never heard about him? And how can they hear about him unless someone tells them? (Romans 10:14 NLT)",
 					"transformations" : [	
 						{"name": "World Without Christ", "description": "--Needs content--"},
 						{"name": "Missing the Gospel", "description": "--Needs content--"},
@@ -473,9 +505,11 @@
 				{
 					"pageInfo": {
 						"htmlFileName":  "Trusts-Endurance", 
-						"pageTitle" : "Endurance"
+						"pageTitle" : "Endurance",
+						"scripture" : "And you will be hated by all on account of My name, but the one who endures to the end, he shall be saved. (Mark 13:13)",
+						"introBlock" : [
+						]
 					},
-					"scripture" : "And you will be hated by all on account of My name, but the one who endures to the end, he shall be saved. (Mark 13:13)",
 					"transformations" : [	
 						{"name": "No Strength to Endure", "description": "--Needs content--"},
 						{"name": "Called to Follow", "description": "--Needs content--"},
@@ -501,9 +535,9 @@
 				{
 					"pageInfo": {  
 						"htmlFileName":  "Time-DiscoveringGod'sWill",  
-						"pageTitle" : "Discovering God's Will"
+						"pageTitle" : "Discovering God's Will",
+						"scripture" : "For the grace of God has appeared, bringing salvation to all men, instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age, looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus; who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself a people for His own possession, zealous for good deeds. (Titus 2:11-14)"
 					}, 
-					"scripture" : "For the grace of God has appeared, bringing salvation to all men, instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age, looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus; who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself a people for His own possession, zealous for good deeds. (Titus 2:11-14)",
 					"transformations" : [	
 						{"name": "Pursuing My Will All the Time", "description": "--Needs content--"},
 						{"name": "A Call to Follow", "description": "--Needs content--"},

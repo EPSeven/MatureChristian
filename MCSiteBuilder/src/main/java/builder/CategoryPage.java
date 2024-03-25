@@ -23,11 +23,9 @@ public class CategoryPage extends HtmlPageBase {
 
 		// Introduction block.
 		contentLines += getPageIntroduction();
-		contentLines += getEndOfLine();
 
 		// Block containing the links to the characteristic pages.
 		contentLines += getCharacteristicPageLinksSection();
-		contentLines += getEndOfLine();
 
 		// Page navigation block.
 		contentLines += getCategoryNavigationSection();
@@ -36,7 +34,8 @@ public class CategoryPage extends HtmlPageBase {
 	}
 
 	private String getCharacteristicPageLinksSection() {
-		return HtmlTags.p.getTagLine() + getLinksToCharacteristicPages() + HtmlTags.p.getCloseTagLine();
+		return HtmlTags.p.getTagLine() + getLinksToCharacteristicPages() + HtmlTags.p.getCloseTagLine()
+				+ getEndOfLine();
 	}
 
 	private String getLinksToCharacteristicPages() {
