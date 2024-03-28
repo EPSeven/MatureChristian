@@ -234,8 +234,10 @@ public abstract class HtmlPageBase implements PageBuilder {
 
 		linkAttributes.addAttribute("href", pageFileName + ".html");
 		pageLink += HtmlTags.a.getTagWithAttributes(linkAttributes);
+		pageLink += HtmlTags.div.getTagWithClass("nav-icon");
 		pageLink += navLinkImg;
 		pageLink += linkText;
+		pageLink += HtmlTags.div.getCloseTag();
 		pageLink += HtmlTags.a.getCloseTag();
 
 		return HtmlTags.h2.getContentTagLine(pageLink);

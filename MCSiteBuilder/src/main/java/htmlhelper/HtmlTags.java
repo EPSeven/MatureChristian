@@ -1,7 +1,7 @@
 package htmlhelper;
 
 public enum HtmlTags {
-	html, head, meta, link, script, title, body, h1, h2, table, tr, td, div, p, br, a, img, center;
+	html, head, meta, link, script, title, body, h1, h2, table, tr, td, div, span, p, br, a, img, center;
 
 	public String getTagLineWithClass(String tagClassName) {
 		HtmlTagAttributes attributes = new HtmlTagAttributes();
@@ -9,6 +9,14 @@ public enum HtmlTags {
 		attributes.addAttribute("class", tagClassName);
 
 		return getTagLineWithAttributes(attributes);
+	}
+
+	public String getTagWithClass(String tagClassName) {
+		HtmlTagAttributes attributes = new HtmlTagAttributes();
+
+		attributes.addAttribute("class", tagClassName);
+
+		return getTagWithAttributes(attributes);
 	}
 
 	public String getTagLineWithAttributes(HtmlTagAttributes attributes) {
@@ -25,7 +33,6 @@ public enum HtmlTags {
 
 	private String getTagLine(String tagName) {
 		return formatAsLine(getTag(tagName));
-//		return String.format("%s\r\n", getTag(tagName));
 	}
 
 	public String getTagWithAttributes(HtmlTagAttributes attributes) {
