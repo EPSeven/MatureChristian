@@ -928,16 +928,38 @@
 						"pageTitle" : "Personal Testimony about Jesus",
 						"scripture" : "",
 						"introBlock" : [
+							"When we begin to talk about Jesus, our first conversation about him is likely to be about our personal experience with Jesus. Perhaps we are like the disciples when they first encountered Jesus as recorded in John’s Gospel, we begin to see who Jesus is and so we talk about this person whom we ourselves are just beginning to discover. As we spend time with Jesus and learn from him, our life is touched by his life and his words. The impact of what Jesus says reaches us at the core of our inner being and we are undergoing a transformation. This transformation we experience becomes what we talk about. We talk about what Jesus has done in our life. We know that we have been transformed by Jesus and are continuing to be transformed. The changes we see in ourselves are so dramatic, that we want to shout from the roof tops the things that Jesus has been teaching us and been doing in us in secret. We have so much to say about Jesus that sometimes we don’t know where to begin. We so want to talk about how our life has taken a new direction since we began following Jesus that sometimes we don’t know when to be quiet. People who know Jesus are excited for us and keep saying that we are on fire for the Lord. We just know that we are a different person and we want to tell people about it. According to the calendar, we may not have been walking with Jesus for very long, but within our heart, it seems like forever since we were the person we once use to be. By no means do we claim to be like Christ yet, but our focus and our interests have changes so dramatically that people are noticing. Whenever we get a chance, we talk about what Jesus has done for us."
 						]
 					}, 
 					"transformations" : [	
-						{"name": "Jesus Isn't Impacting My Life", "description": "--Needs content--"},
-						{"name": "Intrigued by Jesus", "description": "--Needs content--"},
-						{"name": "Challenged by Jesus", "description": "--Needs content--"},
-						{"name": "Committing to Christ", "description": "--Needs content--"},
-						{"name": "Transformed by Christ", "description": "--Needs content--"},
-						{"name": "How Jesus Changed Me", "description": "--Needs content--"},
-						{"name": "Declaring Jesus is the Christ", "description": "--Needs content--"}
+						{
+							"name": "Jesus Isn't Impacting My Life", 
+							"description": "If someone were to ask us, prior to our following Christ, what Jesus means to us and what impact he has on our life, our answer would reveal that we do not know Jesus and that neither his teachings nor his life have any impact on us. How else could we be since we know nothing of Christ Jesus. Perhaps we have heard of his name. Maybe we have heard a story or two about him. But the truth is, we know nothing about him. What’s more, we could care less about him. Jesus means nothing to us. We see no value in seeking him our or learning from him. Thus we have nothing to say about him. We claim that we are happy just the way we are. We say this because we know nothing of the abundant life that he came to give to those who believe him. It is impossible to talk about Jesus because he has done nothing in us or for us. We have no personal encounter with the living God in Christ, so we have nothing to say about him. If we were asked what we talk about, it would be our interests and our life. We may speak of our hopes and dreams, or we may speak of our hurts and disappointments. What we cannot speak of is how Jesus addresses and even transforms our hopes, dreams, hurts, and disappointments."
+						},
+						{
+							"name": "Intrigued by Jesus", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Challenged by Jesus", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Committing to Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Transformed by Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "How Jesus Changed Me", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Declaring Jesus is the Christ", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
