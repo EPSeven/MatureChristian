@@ -438,13 +438,28 @@
 							"Trusting in God, having faith, goes far beyond the idea that God exists. It goes beyond that to realizing that God makes Himself known to humanity. It grows by the realization that God has spoken to His people and thus speaks to us. The mature faith of a disciple is grounded in an intimate relationship in which we trust what God says without doubt or concern for ourselves and do what He says. We believe God and thus trust Him, not just &quot;believe in the idea of God&quot;. Furthermore, as we grow as a mature Christian, we want others to know Him and are given a role in seeing that desire carried out."
 						]
 					},
-					"additionalScriptures": [""],
+					"additionalScriptures": ["James 2:19"],
 					"transformations" : [	
-						{"name": "Ignorant of God's Existence", "description": "--Needs content--"},
-						{"name": "Something Greater", "description": "--Needs content--"},
-						{"name": "Beyond a Reasonable Doubt", "description": "--Needs content--"},
-						{"name": "Hearing God Speak", "description": "--Needs content--"},
-						{"name": "An Intimate Relationship", "description": "--Needs content--"}
+						{
+							"name": "Ignorant of God's Existence", 
+							"description": "Before believing what God says, we must start with God Himself and His existence. Faith is grounded in God’s existence. Without faith our heart is not aligned with God nor do we do what He says because we do not know that He has said anything. First we must become convinced that He exists and rewards those who seek Him (Hebrews 11:6). Until our first step towards God is taken, we are either blind to His existence or intentionally denying it, which the Bible says is characteristic of a fool (Psalm 14:1; Psalm 53:1). In this state, God is both unknown and unknowable, for we are ignorant to the fact that He wants us to know Him (Psalm 46:10; Isaiah 43:10). At this point we do not believe anything we hear about God since we already think that there is no truth to or evidence of God’s existence."
+						},
+						{
+							"name": "Something Greater", 
+							"description": "God took the initiative (John 3:16; Romans 5:8; 1 John 4:19) which enables us to begin the journey of discipleship, by revealing Himself to humanity. He has chosen to utilize human beings in making Himself known, and in particular those who help us take steps towards Him. Furthermore, our desire to know and believe Him grows out of the seed of desire that He plants in our heart (Song of Solomon 7:10; 1 Timothy 2:3-4). Through God’s initiative, we take a step closer towards following Christ when we respond to the sense that something or someone greater than ourselves might exist. Perhaps someone mentions God, leading us to wonder what He is like. Maybe someone invites us to church, or we meet a person who is different from most everyone we know. We might find ourselves in a situation beyond our ability to handle that causes us to question if there is more to life than what we are experiencing. We are getting our first glimpse of God making Himself known. God is not working to make His existence known, so that we might recognize that He is completely trustworthy. Knowing God includes knowing His promises and warnings, as well as His grace and mercy. He offers Himself to His creation without forcing any of us to know Him. Thus we get a sense of something greater than ourselves and hunger to investigate Him that we could not cultivate on our own. Hearing about God leads to believing that He does indeed exist (Romans 10:14). Our understanding of Him is limited since it is just beginning, thus our knowledge has holes, inconsistencies, and inaccuracies. Nevertheless, we are a step further along in faith in trusting that God really does exist."
+						},
+						{
+							"name": "Beyond a Reasonable Doubt", 
+							"description": "God’s existence is the starting point, not our final destination. Some claim to believe God exists, yet remain on the launch pad by not listening to Him. But the maturing Christian moves beyond the mere existence of God primarily through encounters with God via the biblical record. The Bible does not argue for God’s existence, but holds His existence as a foundational assumption from cover to cover. The Bible is also the primary way God has chosen to reveal Himself, given as proof that He exists. Maturing as a disciple, we no longer question whether God exists, though we may struggle to explain to others in a convincing manner why we are certain that He does exist. By faith we move beyond doubt to fact. Belief in what God has said comes through hearing Him in Scripture, and by observing the lives of those who know and love Him. Time spent listening and responding to His word as it is spoken, preached, and read, deepens our faith as we notice God speaking to specific people within their situations throughout Scripture. We discover things He has done across history for the sake of His name that is to the benefit of those who were trusting Him. At this point we focus more on how God spoke to others rather than how He may be speaking to us. Nevertheless, we are even more convinced that, not only does God exist, He speaks and can be understood. One thing that begins to stand out to us are passages where people hear God speak but do not listen to Him. In one account after another we see people who did not follow what God said, revealing that ultimately they did not believe Him or trust that what He said was true (Luke 6:46). Some refused to believe God had spoken. Like our ancestors in the Garden of Eden, all of us are tempted to doubt God (Genesis 3:1) and do what appeals to us (Genesis 3:6; James 1:14; 1 John 2:16), not believing God or following what He prescribes. As we grow and recognize this pattern occurring throughout Scripture, we become aware of how this has also been the pattern of our life. We begin to be convicted that we had not listened to God either. The next transition in our growth depends on whether or not we actually start hearing and applying what God says. Our faith in God is moving beyond a reasonable doubt and that is challenging us to live out our faith through our actions."
+						},
+						{
+							"name": "Hearing God Speak", 
+							"description": "It might be in an ah-ha moment or through a thought that quietly slips into our heart and mind, but it dawns on us that when God spoke to His people, He was also speaking to us. That light clicking on shows we are growing. We move from simply hearing the accounts of God and humanity passively, to grasping that what He says applies to us personally. An important and necessary step in our growth as Christ’s disciples is realizing that Scripture applies to our life. It is more than a historical account, it is His living word which is to be applied to our life. The challenge we face as followers of Christ comes in seeking to live out what God has said. In reality we cannot and will not live a life consistent with God’s word on our own, but will continue to fall short if we attempt to do so in our own strength. As we listen to His word we hear that we need the power of the Holy Spirit, that we must be born again (John 3:3-8). Part of the gospel message is that Christ dwells in us (1 John 4:13). He is the vine and we are a branch, and apart from Him we can do nothing (John 15:5). If we fail to grasp this truth, we will struggle to live the Christian life when we seek to live it on our own, not in Christ. But in hearing and believing that Christ is in us and we are in him (John 14:20), it becomes a joy for us to live for God following His ways. Maturity in Christ is not something we cause, it is God working in us so that we desire and act according to His will (Philippians 2:13). Our part in the equation is simply to believe what God says and to walk in the steps He laid out within His word which is being written on our heart (Jeremiah 31:33; Hebrews 10:16). We are learning to walk in the Spirit (Galatians 5:16) and discovering what it means to die to self (Matthew 16:24). Maturity occurs in light of believing what God says, not simply in His existence."
+						},
+						{
+							"name": "An Intimate Relationship", 
+							"description": "Growth in maturity continues long after we move beyond whether God exists for we are always learning to apply what God says to our life. Yet, there comes a point where our love for God shifts from our looking at how His words apply to us, to looking at how we might be a light in this world so that others may know Him as well (Matthew 5:14-16). We move from being interested in what we might gain, to living in an intimate relationship with God, knowing that whatever He says is best for all of His creation. We know God is faithful and just. We know His promises and warnings. We listen to what He says, as we live in communion with the Living God. Our greatest desire has become to see others come to know Him, not just to hear how they think that some kind of God exists."
+						}
 					]
 				},
 				{
@@ -458,13 +473,27 @@
 							"Faith aligns us as conduits through which God's Self-revelation travels (Acts 16:31; 2 Corinthians 5:20; 2 Timothy 2:10). He make Himself known in a variety of ways including angels (though they are not His primary method). His written Word which He has given us through the Bible, plays a central role in revealing God, but it is not His primary means either. For some reason that we do not quite fully understand or explain, God has chosen human beings as His primary means for making Himself and His gospel known throughout His creation. God chooses to use those who trust this self-revelation of His to spread the news to friends, family, and future generations. We are the means through which God wants to make His name and His salvation known far and wide, even to those who label us as their enemies. Thus, Christian growth leads us to play a part in God revealing Himself."
 						]
 					},
-					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "Making Myself Known", "description": "--Needs content--"},
-						{"name": "Awareness of God", "description": "--Needs content--"},
-						{"name": "Self-Realization", "description": "--Needs content--"},
-						{"name": "Set Apart", "description": "--Needs content--"},
-						{"name": "Revealing God", "description": "--Needs content--"}
+						{
+							"name": "Making Myself Known", 
+							"description": "Living with no reference to God or faith in Him, we act as if we are the center of our world. Everything revolves around us, and as far as we are concerned everything is about us. We are happy when things go well but get upset when they do not; some of us even throw fits in order to get our way. Whether or not we make our desires and needs known, we expect them to be met. Often, how we make our desires known is not healthy, or done in a way that pleases God or others. Much of what we identify as our desires and needs are not actually good for us, possibly keeping us from seeking God or being interested in Him. Since we do not know God, we cannot make Him known. Our focus is self-centered. We love ourselves, have faith in ourselves, and when we get a chance, we talk about ourselves. Though we may not notice it, our primary interest is to make ourselves known. This may occur in various ways, but at the root, it is about us. We want to make a name for ourselves. Many of us stay within our circle of friends and family, though some of us want the world’s affection. We want people to know about our achievements, career, family, or possessions. Maybe we are intentional working to build what we hope will be a legacy of fame and fortune. Perhaps we say that we are working to give our family a better life. Some of us tend to talk about our pains, sorrows, and sufferings. However we approach it, in the end, we are trying to make ourselves known. Because we are self-focused, we are oblivious to the fact that God wants to reveal Himself to us and then through us."
+						},
+						{
+							"name": "Awareness of God", 
+							"description": "The first step in coming to know God’s self-revealing nature includes exploring His existence, in which He begins to make Himself known to us. A desire to know if there is a God and if so, what He is like is birthed in our heart and mind. Growth, which we perceive as our searching for God, is really God drawing us to Himself. Faith slowly takes shape as we seek answers and ask questions in these early stages, learning to believe the truth about God as His story is told (Romans 10:17). If someone asks what God has revealed about Himself, we are pretty clueless. We do not grasp His self-revelation, yet as we continue to draw near to Him (James 4:8a), a knowledge and love for Him begins to take root (2 Peter 3:18)."
+						},
+						{
+							"name": "Self-Realization", 
+							"description": "Being self-focused, as we learn about God we naturally think about ourselves. It seems like self-examination, but it is actually the Holy Spirit showing us things about ourselves about which we are blind. Then we start to recognize some of the sin and selfishness. Pain and confusion may surface as we recognize and find God dealing with our fallen nature, especially if we do not believe that we and all of humanity are fallen. Yet, this too is part of God’s self-revelation. What we are discovering, though we may not understand it, is that God is holy and we are not; that we cannot transform ourselves or deliver ourselves from corruption; that we are in desperate need of a Savior. As we continue to seek God, His life transforming power continues working in us, such that we embrace the truth of what He has revealed about sin and death (Romans 5:12; Romans 6:16-23; Romans 7:13), and our need for redemption (John 8:2; Romans 8:2; Titus 2:14). By the grace of God we hear and believe the good news of Christ (Matthew 20:28; John 1:29; John 6:51; Romans 5:6; 1 Corinthians 1:30). Perhaps we go to the altar in a church service. Maybe someone walks with us as we call out to God and acknowledge Christ. Some of us reach the end of ourselves and cry out to the God about whom we have been learning. God is revealing Himself and drawing us through Christ. In a sense, we feel like we have found God at the point when we are reborn in the Holy Spirit (John 3:3-8; John 5:24; 1 Peter 1:3). But it is actually God who has made salvation possible and real for us. He revealed what He wants us to know about Him, and calls us to believe and trust Him. We cannot boast of figuring it out on our own, nor have we done anything to force God to take action (Ephesians 2:8-9). Rather, God revealed His plans, and like Abraham we believe Him, which He credits to us as righteousness (Genesis 15:6). We now know that we have no righteousness of our own, but realize that Christ has become for us righteousness (2 Corinthians 5:21), Christ himself being the breastplate of God’s armor that we now wear (Ephesians 6:14). We step onto the path of true self-realization, which is having Christ abide in us, the mystery of our faith (Colossians 1:27). Faith in Christ is really taking root now."
+						},
+						{
+							"name": "Set Apart", 
+							"description": "Now that we grasp what God has revealed about Himself, we see that He sets us apart for Himself (John 17:17; Acts 26:18; Romans 6:22; 1 Corinthians 6:11). Our life is no longer our own, for we have been bought with a price (1 Corinthians 6:20; 1 Corinthians 7:23). Sadly, some depart at this point, turning away from God in order to live for themselves once again. The prayer they prayed for salvation only provided some temporary relief or a moment of excited hope rather than beginning in them true life transformation that comes as we focus on God and trust Him to work in and through us. Those of us who grow in faith, mark the point of our salvation as the time our focus and priorities began to change as we started taking God at His word. Trusting Him brings about changes in us that enable us to know and love Him more. We are set apart by God when we first believe Him, but as we mature God reveals that we are to be completely set apart for His purposes in all areas of life (1 Thessalonians 4:3-7; 5:23). Salvation is God setting us apart from sin and death, the world and our old way of life, while sanctification is our being set apart to God. Sanctification, in its fullest sense is an ongoing process in which the Holy Spirit continues to reveal both the Father and the Son too us, thereby deepening our faith in God. As we grow in our knowledge and love of God, we learn more about the work and power of the Holy Spirit that builds up Christ’s disciples (Galatians 5:22-24; 1 Corinthians 12:7-11). Through the Spirit and the Church, we discover a place to serve God and His kingdom. He did not save us to be a trophy on a shelf, but that in reconciling us to Him we would be equipped to lovingly serve His Church, the body of Christ (Romans 12:5; Ephesians 4:11-12). There comes a point when we hunger for God to do a deeper work within us. Our deepest desire has become to be used by God in whatever ways He may choose, so that He may be glorified and His greatness noticed by others (Matthew 5:14-16). We may not yet recognize that God is inviting us to draw even closer to Him (Psalm 37:4). He is revealing Himself to our heart in such a way that we hunger to know Him even more. We grasp what He has revealed about Himself so that we are able to love Him more than anyone else we love, even more than our own life (Luke 14:26-27). This point of complete surrender, which some call entire sanctification, is the outflow of God having revealed Himself in and to us. We no longer care for the things of this world and are not interested in satisfying the lusts of our flesh and eyes (Genesis 3:6; 1 John 2:16), rather, we delight in the Lord. We are indeed set apart by God and to God. It is no longer we who live, but Christ who lives in us, for the life we now live, we live for Christ who loved us and gave himself up for us (Galatians 2:20)."
+						},
+						{
+							"name": "Revealing God", 
+							"description": "As we continue to mature in the saving and sanctifying work of the Holy Spirit, God reminds us that His plan for our life is for us to go and make disciples (Matthew 28:18-20). When He created humanity He commanded us to reproduce (Genesis 1:28), as a result of His saving and sanctifying work in us we are to be fruitful and multiple as we share the story of God by which He reveals Himself to others through us. The who and how of making disciples varies from person to person. Some of us disciple friends, family, co-workers, neighbors, and anyone else whom the Lord has in our daily life. Others may be called to a different place where we serve His interests with people who are new to us, which may be in our own country, across a border, or even across an ocean. The assignment might be short term or a lifetime call. Still others may equip a church by serving in leadership or preparing new leaders. However God leads us, we are all called to go and make disciples. Making disciples is part of God’s plan for our life as a Christian. It is important for us to remember that we came to faith as a disciple, learning about God by Him working through others. Would we not eventually desire to help someone else come to faith in God through Christ? We may resist at first, but the sanctifying work of the Spirit in us requires that we respond by either agreeing with God and going, or denying God and drawing back from Him. If we are a mature Christian whose faith is in Christ, then we respond by going. Christ commissioned his disciples to make more disciples on his behalf, thus we too are commissioned to make God known to others as we fully trust the God whom we proclaim."
+						}
 					]
 				},
 				{
@@ -478,15 +507,36 @@
 							"It is impossible for us to move to a level of a mature and intimate knowledge of God apart from the written Word of God. God desires that we know Him, which goes beyond book knowledge, for it leads us to completely trust Him. This trust grows as we notice God working in our life and proving Himself faithful, even if we have doubts. True knowledge of God develops in our heart more than in our mind. It shapes our character and brings us into an intimacy with Him."
 						]
 					},
-					"additionalScriptures": [""],
+					"additionalScriptures": ["Genesis 1:26-27", "Esther 4:11", "Esther 5:1-2", "Matthew 11:27", "Colossians 1:19", "Colossians 2:9"],
 				   	"transformations" : [	
-						{"name": "I Know Nothing", "description": "--Needs content--"},
-						{"name": "Limited Knowledge", "description": "--Needs content--"},
-						{"name": "Exposed to the Truth", "description": "--Needs content--"},
-						{"name": "Encountering God in Scripture", "description": "--Needs content--"},
-						{"name": "Discovering God through Challenges", "description": "--Needs content--"},
-						{"name": "Reflecting God in Our Character", "description": "--Needs content--"},
-						{"name": "Intimacy with God", "description": "--Needs content--"}
+						{
+							"name": "I Know Nothing", 
+							"description": "We are born into this world without an innate knowledge of our Creator nor a desire to know Him. Without knowledge of God, we are blind to our bent towards sin, even denying the seriousness of sin (Romans 1:18-23; 1 John 1:8, 10). Whatever clues we encounter about God’s existence come from what we observe and those around us. The understanding that many of us claim to have of God is distorted. Even being raised in a godly home does not ensure our knowing God, for in our fallen nature we resist God and rebel against Him in many different ways. Any awareness of Him is likely mixed with our own imaginings. But the majority of us know nothing about the Living God, though we may construct an idea of God for ourselves. In short, the Living God, who created us and wants us to experience His promises and redemptive power in Christ, is just as unknown to us as is our fallen nature, and so we look to things other than God for our ultimate purpose and meaning."
+						},
+						{
+							"name": "Limited Knowledge", 
+							"description": "In moments where we directly or indirectly come in contact with God’s truth we begin to grow. More often than not, we do not notice such points of growth, though some may leave a lasting impression that are recognized months or years later. Basic truths about God cross our path in the form of other people. He uses human agents to make Himself known. While we may encounter bits and pieces of truth, accepting them and allowing them to impact our life is another matter entirely. As our knowledge of God increases, so does our awareness of sin. We may not see or acknowledge our sin, but we do recognize things that need to change. Though we pursue changes, they do not last; if we break free from one issue, another comes to light. Try as we might, we cannot find true freedom. We continue to be self-centered, and even though that may start to bother us, we bristle at the idea of sin within us. In a very crude sense, we are beginning to mature and grow in the knowledge of God. But this limited knowledge is not yet directing our choices or cause us to seek God. Rather, we have simply heard bits of information which is not yet consciously shaping our character."
+						},
+						{
+							"name": "Exposed to the Truth", 
+							"description": "To mature into a follower of Christ we must frequently be exposed to the truth of God. As we become more aware of Him we also become more aware of our self-centeredness, eventually realizing that we are a sinner. This truth may come through friends or family, co-worker, classmates, or neighbors as a way of God getting our attention. Maybe a follower of Christ is praying for us and watching for an opportunity to speak to us about Christ, sits down with us over coffee, invites us to church, or asks us to join them in a Bible study. Or someone may have the courage to speak the truth to us about the things we do or say that are not appreciated. Whatever the means, people in our life are making known the truths of God. During this time a growing hunger to know the living God develops along with an increasing awareness of our captivity in sin (Romans 3:23; Romans 6:23). We may not describe it that way, but that is what is happening deep inside of us. This desire to grow may lead to our hunger to connect with people. It might cause us to seek direction in the midst of a crisis. Maybe we feel there must be more to life. Some may turn to a local church saying it is for the kids. Or perhaps we recognize sin rearing its ugly head and cry out for deliverance in a moment of desperation. Whatever the means He may use to reach us, this is the point when God reaches out to us and invites us to seek Him."
+						},
+						{
+							"name": "Encountering God in Scripture", 
+							"description": "Though God uses a variety of means to make Himself known, His primary means is the Holy Bible. If we hunger to know God we must eventually start reading the Bible. To reject the Bible is to reject God’s self-revelation. Our first venture into the Bible may start in the beginning, with the first chapters of Genesis. We might find them interesting until we encounter a list of names, many of which we cannot pronounce. As we push on the story gets interesting, until about the middle of Exodus when we start to get lost with the happenings and details around Mt. Sinai. Some may give up and conclude from this initial reading that the Bible is too difficult to understand. But that is simply not true. The best thing we can do is pray for the Holy Spirit to open our mind and heart to God’s word and to ask for someone to disciple us. Someone who is mature in the faith and able to help us understand what we read. If someone comes alongside us to help us grow, they may point us to the Gospel accounts of Jesus in the New Testament rather than Genesis and the Old Testament. They know from experience that the best place to start is with Jesus himself. In time we will venture into the earlier parts of the Bible, but initially our growth is best guided by spending time with Jesus. Even if we do not have someone to walk with us, by pressing in reading through the challenging and seemingly boring parts can bear fruit in the long run. In time we better understand and appreciate those parts of the Bible, but in the early stages it is important to develop the discipline of drawing near to God. Our initial reading of the Bible begins to break up the soil of our heart and mind where the words of God are being planted, watered, and taking root. As we read, we make discoveries about Christ. We meet with sin, judgment and redemption. As we encounter God’s promises we probably do not notice them or understand their significance yet. Still, Jesus challenges us with what he says, all the while slowly coming to grips with who he is. Learning about Jesus in the pages of Scripture, we wrestle with whether or not we are going to believe him. To become a mature Christian we must become a follower of Jesus, for he is the Christ promised by God, the one to whom all of Scripture points (Luke 24:44-47). We have to admit the truth about our separation from God and our need for the Savior whom God sent, that Christ is given to be our Savior. We need to belong to Christ, not to sin (Romans 8:2; 2 Corinthians 5:14-15). This awareness comes as we continue to grow through reading and prayer. Knowledge of Jesus and the Bible can come from hearing God’s word in church. It can come through our participating in a small group Bible Study, a Sunday school class, and meeting one-on-one with a mature believer. All of these are great ways to grow in our knowledge and love of God through His word. But if the truth be told, we mature in Christ by spending time on our own with him in the Bible and prayer. We need to take time to listen to God, grasp His self-revelation, and trust Him. Faith comes by hearing the word of Christ (Romans 10:17), which has been preserved and passed down to us. We must hear God’s word in order to believe it and act upon it. Only as we are prayerfully in His word do we encounter Him since this is His primary means for revealing Himself."
+						},
+						{
+							"name": "Discovering God through Challenges", 
+							"description": "The more time spent in Scripture, the more likely we are to encounter God. Meeting Him in His word challenges us. While we easily see sin’s destructiveness revealed through our relationship with God and others. We notice sin in others, but now we recognize it more and more in ourselves. But we are also better grasping that if we confess our sin, God is faithful and just to forgive us (1 John 1:9). As we mature, God’s word challenges us to ask Him to work in us in ways we cannot do in and for ourselves. In this season of growth, we may be tempted to turn away from Christ (John 6:60-66), but we press on in the discovery that the words of eternal life come through Christ who has come from God (John 6:68-69). We could choose to sin and satisfy our flesh rather than believe God and obey Him. But instead we look to Jesus who was also tempted (Matthew 4:1-10), and as we do we resist the devil and he flees (James 4:7-8a). God wants to transform our life, but He does not force Himself upon us, instead He allows us to make choices that align with Him or not. We either pray for His will to be done, or we take control so that our will is done. We either focus on God or ourselves. We either glorify Him or sin against Him. Our growth in the knowledge of God comes by choosing to seek Him and do His will, and then facing all challenges with our eyes fixed on God."
+						},
+						{
+							"name": "Reflecting God in Our Character", 
+							"description": "As we submit to God, trusting in who He is and what He is doing, we grow in our knowledge of Him. As He sets us free from the sins that have bound us, we grow in our knowledge of Him. Sometimes our growth is recognizable. Sometimes it seems like merely head knowledge. It is our character that is most transformed as we submit to God. Time and opportunities reveal our character. Some of our choices amaze us knowing that they are a result of trusting God leading us to do and say things that honor Him. It must be emphasized that much of our growth in the knowledge of God takes place first in our heart. Our trust of God and the way we think changes as well. Our character is being shaped to reflect the Lord. All of this is seen in our choices and actions. Things that were once important no longer draw us. Words we used to say no longer pass through our lips. These changes are not the result of our trying our best to live up to some standard, but occur as we get to know God better, which goes much deeper than simple head knowledge. It is growth that shapes our character. As a result, sin is losing the power it once had over us. Insights about Him and from Him inspire us and shape our thinking, but growth is marked by our being transformed into the likeness of Christ Jesus. Faith is daily shown to be genuine as we depend upon what God has revealed about Himself, knowing that He will do what He has promised. Our character reflects our faith and pleases God (Hebrews 11:1; Hebrews 11:6) for we have come to know Him."
+						},
+						{
+							"name": "Intimacy with God", 
+							"description": "While there is no point at which we stop growing in our knowledge of Him, there does come a point where we trust God so completely and have an intimacy with Him that we no longer struggle to know or trust Him like we did at first. Our walk with Christ clearly reveals that we know God, although we do not claim to know God fully. The Holy Spirit is working in us, continuing to guide us into all truth (John 16:13). The Spirit convicts us of any sin that shows up, and sets us free from sin as we confess and repent. Character formation continues until the day we die. Yet, there is a sense in which we have the core knowledge of God needed to obediently follow Him wherever He may take us. We have offered our life as a living sacrifice (Romans 12:1). We know that He is faithful, just, kind, loving, full of mercy and grace. We experience His love of God, and understand that if we should start going astray, He would call us back to Himself. At times it may be painful, but we realize that God does what is best for those who love Him, which results in our glorifying Him. In our maturity, we know God and have intimacy with Him."
+						}
 					]
 				},
 				{
@@ -500,12 +550,23 @@
 							"In the days of the early church, being identified with Christ was costly. To be baptized was to pledge allegiance to Christ exclusively. Some lost their family and friends when they became an outcast from society. For others, it meant death. That was true for the early church and it is still true today in some parts of the world. Most of us do not face outward conflicts when we are baptized. To some it may seem insignificant. But there is a spiritual aspect in which we are declaring a spiritual allegiance to Christ. Baptism is not just physical, it is also spiritual (Colossians 2:9-12)."
 						]
 					},
-					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "Outside the Community", "description": "--Needs content--"},
-						{"name": "Steps towards Christ", "description": "--Needs content--"},
-						{"name": "Entry into the Community", "description": "--Needs content--"},
-						{"name": "Extending the Invitation", "description": "--Needs content--"}
+						{
+							"name": "Outside the Community", 
+							"description": "Before we trust Christ we are outside the community of believers and see no need to be otherwise. Some may be born into a Christian family or be involved in a church, but  if we are not baptized, we are not actually in the community of believers. We may be around the body of Christ and enjoyed some of its benefits, but we are not an actual member of that community. Without the public commitment to a community of faith we are not in a position of being accountable to anyone for our faith in Christ. Various factors may keep us from baptism. Perhaps we do not understand what it is and why it is important. Maybe we are not connected to a church. It is possible that we have no knowledge of the community of faithful believers and the importance of growing in our knowledge and love of God with others. Whatever the reason, at this stage we are not baptized, and maybe not even aware of it. We are outside the community of believers. Even if we are raised in a Christian home, interacting with a Christian community, or attending church regularly, though we see ourselves as part of Christ’s Church, his body, without being baptized we have yet to die with Christ, have our consciences cleansed, or declare our allegiance to the Lord."
+						},
+						{
+							"name": "Steps towards Christ", 
+							"description": "As we learn about Jesus Christ we move towards him and his Church. We cannot be near him for long without him challenging us to go deeper as one of his followers. Even so, we are not yet ready to enter the community of believers and probably not thinking about it. But, we are becoming more aware of Christ and the implications of who he is. Some might turn away from him and say that what he teaches is just too hard (John 6:60-66) or too costly not clearly seeing who he is, or understanding that it cost him everything to give us the gospel. We, however, press on, counting the cost of following him as best we can at the moment (Luke 14:26-35). Those who turn away do not see their choice to reject God as following after false gods, yet according to Scripture, to turn away from Christ is to turn away from God (Matthew 10:32-33; Mark 8:38; 2 Timothy 2:12; 2 Peter 2:1; 1 John 2:22-23), and to pursue false gods. As we continue to mature in Christ, we realize he as worthy of our complete trust. Therefore, we continue moving towards him and growing as we do. Not yet baptized, we now gather with a community of believers, hear the gospel, truly believe Jesus is the Christ, and gradually move towards baptism. Growing in Christ means we continue to learn more about this man named Jesus whom we are now following. Along the way we surrender bits of ourselves to his ways as our allegiance is tested and refined. Our faith is maturing for God is working in us (Philippians 2:13). We are starting to grasp how profound it is to say &quot;Jesus is Lord&quot; (Acts 10:36; 1 Corinthians 12:3) and realize that this confession is meant to impact every area of our life. Part of the reason we are maturing is because we actively participate in an assembly of the believers. Maybe we are involved in a church, attending the worship service, a Sunday school class, a small group Bible study, or even serving. Nevertheless, we have not yet committed to the body of believers or totally part of the community as Jesus prescribes. We may claim we are committed to Christ, but not to his Church. The step of faith still remains ahead of us through which we fully enter the community."
+						},
+						{
+							"name": "Entry into the Community", 
+							"description": "Eventually we learn that baptism is prescribed for all Christians and begin to pursue it (Acts 8:36-38). It is dawning on us that submission to Jesus via his Church is a priority when following him (Hebrews 10:23-25), and that his Church extends beyond our specific location and body of believers, for it encompasses believers everywhere. We want to be faithful to Christ by becoming part of the great fellowship of believers. Towards that end we might respond to an invitation to be baptized, or we may approach a pastor or leader and ask about baptism. When an opportunity to be baptized comes, we prepare for it, and then take this very serious and joyful step in the midst of a local body who receive us into their fellowship. For some of us, the moment of baptism is a profound experience. To others it seems like a natural step that we joyfully take in obedience to Christ. However we experience it, what is most important is not how we feel, but our obedience to Christ and that we are now marked spiritually as his. Within the body of believers, we are a light (Matthew 5:14-16), and though we do not realize it, our step of faith is an encouragement to others and a reminder that making disciples is the church’s calling. Baptism is evidence that some level of discipleship is happening. Being baptized is our personal testimony of God’s work in us, a corporate testimony of God’s work within that local church, and an invitation to those watching to be transformed by Christ. Biblically speaking, baptism is not the same as church membership. Some churches treat baptism as the means of becoming a church member, while other churches hold membership as a commitment to the local church as well as a larger body such as a denomination as separate from and only available after baptism. In either case, the guidelines of the church typically specify that only baptized believers can take on specific responsibilities related to key areas of the church, its administration, and its leadership. Baptism being required before certain responsibilities are given means that those positions demand a commitment to the body of believers that a person who rejects Jesus’ call to be baptized does not have. This does not mean that all who are baptized continue to mature or that those who are baptized should serve in such positions, it simply means that this basic level of commitment reveals whether or not we take seriously our commitment to Christ and his church."
+						},
+						{
+							"name": "Extending the Invitation", 
+							"description": "Our faith continues growing after our baptism. Our faith is not in the baptism event, but in Christ our Lord. As we grow and mature, we discover that belonging to Christ is a call to make disciples. Making disciples includes helping people journey to the point where they take the step of being baptized. Thus, maturity in Christ shows in our inviting others into a relationship with Christ and his church that leads to their baptism (Acts 19:3-5)."
+						}
 					]
 				},
 				{
@@ -520,10 +581,22 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "No Part in Christ", "description": "--Needs content--"},
-						{"name": "Christ's Invitation", "description": "--Needs content--"},
-						{"name": "Lord and Savior", "description": "--Needs content--"},
-						{"name": "Proclaiming Christ", "description": "--Needs content--"}
+						{
+							"name": "No Part in Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Christ's Invitation", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Lord and Savior", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Proclaiming Christ", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
@@ -538,11 +611,26 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "No Interest in Christ", "description": "--Needs content--"},
-						{"name": "Christ Seems Interesting", "description": "--Needs content--"},
-						{"name": "Battles Rage", "description": "--Needs content--"},
-						{"name": "From Effort to Heart", "description": "--Needs content--"},
-						{"name": "Completely Devoted", "description": "--Needs content--"}
+						{
+							"name": "No Interest in Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Christ Seems Interesting", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Battles Rage", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "From Effort to Heart", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Completely Devoted", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
@@ -559,10 +647,22 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "Without the Spirit", "description": "--Needs content--"},
-						{"name": "Discovering the Holy Spirit", "description": "--Needs content--"},
-						{"name": "Born of the Holy Spirit", "description": "--Needs content--"},
-						{"name": "Led by the Holy Spirit", "description": "--Needs content--"}
+						{
+							"name": "Without the Spirit", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Discovering the Holy Spirit", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Born of the Holy Spirit", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Led by the Holy Spirit", 
+							"description": "--Needs content--"
+						}
 					]
 				},
     			{
@@ -577,11 +677,26 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [
-						{"name": "No Knowledge", "description": "--Needs content--"},
-						{"name": "Faith that Hears", "description": "--Needs content--"},
-						{"name": "Faith that Saves", "description": "--Needs content--"},
-						{"name": "Faith that Grows", "description": "--Needs content--"},
-						{"name": "Faith that Loves", "description": "--Needs content--"}
+						{
+							"name": "No Knowledge", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Faith that Hears", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Faith that Saves", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Faith that Grows", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Faith that Loves", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
@@ -597,10 +712,22 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "Without Hope", "description": "--Needs content--"},
-						{"name": "Hope in the Promises", "description": "--Needs content--"},
-						{"name": "Growing in Confidence", "description": "--Needs content--"},
-						{"name": "Living Expectantly", "description": "--Needs content--"}
+						{
+							"name": "Without Hope", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Hope in the Promises", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Growing in Confidence", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Living Expectantly", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
@@ -616,13 +743,34 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "World Without Christ", "description": "--Needs content--"},
-						{"name": "Missing the Gospel", "description": "--Needs content--"},
-						{"name": "Encountering the Gospel", "description": "--Needs content--"},
-						{"name": "Stirred and Challenged", "description": "--Needs content--"},
-						{"name": "Growing in the Gospel", "description": "--Needs content--"},
-						{"name": "More to It", "description": "--Needs content--"},
-						{"name": "For God's Glory", "description": "--Needs content--"}
+						{
+							"name": "World Without Christ", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Missing the Gospel", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Encountering the Gospel", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Stirred and Challenged", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Growing in the Gospel", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "More to It", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "For God's Glory", 
+							"description": "--Needs content--"
+						}
 					]
 				},
 				{
@@ -638,10 +786,22 @@
 					},
 					"additionalScriptures": [""],
 					"transformations" : [	
-						{"name": "No Strength to Endure", "description": "--Needs content--"},
-						{"name": "Called to Follow", "description": "--Needs content--"},
-						{"name": "Enabled to Endure", "description": "--Needs content--"},
-						{"name": "Remaining Faithful", "description": "--Needs content--"}
+						{
+							"name": "No Strength to Endure", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Called to Follow", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Enabled to Endure", 
+							"description": "--Needs content--"
+						},
+						{
+							"name": "Remaining Faithful", 
+							"description": "--Needs content--"
+						}
 					]
 				}
 			]
