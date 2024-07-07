@@ -3,6 +3,7 @@ package builder;
 import java.util.List;
 
 import htmlhelper.HtmlPageBase;
+import htmlhelper.HtmlTagAttributes;
 import htmlhelper.HtmlTags;
 import jsondata.JsonDataCategory;
 import jsondata.JsonDataCharacteristic;
@@ -29,6 +30,9 @@ public class CharacteristicPage extends HtmlPageBase {
 
 		// Block suggesting additional scripture references.
 		contentLines += getAdditionalScriptures();
+
+		// List of Transitions and hyperlink to each one.
+		contentLines += getTransformationsList();
 
 		// Block for the transformations.
 		contentLines += getTransformations();
@@ -65,11 +69,48 @@ public class CharacteristicPage extends HtmlPageBase {
 		return sectionLines;
 	}
 
+	private String getTransformationsList() {
+		String sectionLines = "";
+		String hrefTitle;
+		String tranSectionLink;
+		HtmlTagAttributes linkAttributes = new HtmlTagAttributes();
+		List<JsonDataTransformation> transformations = characteristic.getTransformations();
+		
+		if (transformations != null) {
+			sectionLines += HtmlTags.h3.getContentTagLine("Growth towards Christian maturity"); 
+			sectionLines += HtmlTags.ul.getTagLine();
+			
+			for (JsonDataTransformation tranInfo : transformations) {
+				hrefTitle = "#" + getLocalHyperLinkName(tranInfo);
+				
+				linkAttributes.clearAttributes();
+				linkAttributes.addAttribute("href", hrefTitle);
+				
+				tranSectionLink = HtmlTags.a.getTagWithAttributes(linkAttributes) + tranInfo.getName() + HtmlTags.a.getCloseTag();
+				
+				sectionLines += HtmlTags.li.getContentTagLine(tranSectionLink);
+				sectionLines += getEndOfLine();
+			}
+			
+			sectionLines += HtmlTags.ul.getCloseTagLine();
+			sectionLines += getEndOfLine();
+		}
+		
+		return sectionLines;
+	}
+	
+	private String getLocalHyperLinkName(JsonDataTransformation tranInfo) {
+		return tranInfo.getName().replaceAll(" ", "-");
+	}
+
 	private String getTransformations() {
 		String sectionLines = "";
+		String hrefTitle;
+		HtmlTagAttributes linkAttributes = new HtmlTagAttributes();
 		List<JsonDataTransformation> transformations = characteristic.getTransformations();
 
 		if (transformations != null) {
+/*			
 			sectionLines += HtmlTags.table.getTagLine();
 			for (JsonDataTransformation tranInfo : transformations) {
 				sectionLines += getIndent() + HtmlTags.tr.getTagLine();
@@ -80,6 +121,17 @@ public class CharacteristicPage extends HtmlPageBase {
 			sectionLines += HtmlTags.table.getCloseTagLine();
 
 			sectionLines += getEndOfLine();
+*/			
+			for (JsonDataTransformation tranInfo : transformations) {
+				hrefTitle = getLocalHyperLinkName(tranInfo);
+
+				linkAttributes.clearAttributes();
+				linkAttributes.addAttribute("id", hrefTitle);
+
+				sectionLines += HtmlTags.h3.getTagWithAttributes(linkAttributes) + tranInfo.getName() + HtmlTags.h3.getCloseTagLine();
+				sectionLines += HtmlTags.p.getContentTagLine(tranInfo.getDescription());
+				sectionLines += getEndOfLine();
+			}
 		}
 
 		return sectionLines;
