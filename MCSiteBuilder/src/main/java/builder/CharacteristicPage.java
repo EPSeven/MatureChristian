@@ -110,18 +110,6 @@ public class CharacteristicPage extends HtmlPageBase {
 		List<JsonDataTransformation> transformations = characteristic.getTransformations();
 
 		if (transformations != null) {
-/*			
-			sectionLines += HtmlTags.table.getTagLine();
-			for (JsonDataTransformation tranInfo : transformations) {
-				sectionLines += getIndent() + HtmlTags.tr.getTagLine();
-				sectionLines += getIndent() + getIndent() + HtmlTags.td.getContentTagLine(tranInfo.getName());
-				sectionLines += getIndent() + getIndent() + HtmlTags.td.getContentTagLine(tranInfo.getDescription());
-				sectionLines += getIndent() + HtmlTags.tr.getCloseTagLine();
-			}
-			sectionLines += HtmlTags.table.getCloseTagLine();
-
-			sectionLines += getEndOfLine();
-*/			
 			for (JsonDataTransformation tranInfo : transformations) {
 				hrefTitle = getLocalHyperLinkName(tranInfo);
 
