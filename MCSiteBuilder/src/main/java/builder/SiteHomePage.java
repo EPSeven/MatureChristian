@@ -48,6 +48,8 @@ public class SiteHomePage extends HtmlPageBase {
 
 		attributes.addAttribute("src", "images/under-construction.png");
 		attributes.addAttribute("alt", "Under Construction");
+		attributes.addAttribute("width", "200");
+		attributes.addAttribute("height", "150");
 
 		return HtmlTags.center.getTagLine() + HtmlTags.img.getTagWithAttributes(attributes) + HtmlTags.br.getTag()
 				+ "Last updated : " + dateTimeStr + HtmlTags.center.getCloseTagLine() + getEndOfLine();
