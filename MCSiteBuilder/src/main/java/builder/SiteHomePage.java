@@ -43,7 +43,7 @@ public class SiteHomePage extends HtmlPageBase {
 	private String getUnderConstruction() {
 		HtmlTagAttributes attributes = new HtmlTagAttributes();
 		LocalDateTime currentDateTime = LocalDateTime.now();
-		DateTimeFormatter dtFormatter = DateTimeFormatter.ofPattern("eeee, dd-MMM-yyyy 'at' K:mm a");
+		DateTimeFormatter dtFormatter = DateTimeFormatter.ofPattern("eeee, dd-MMM-yyyy 'at' h:mm a");
 		String dateTimeStr = currentDateTime.format(dtFormatter);
 
 		attributes.addAttribute("src", "images/under-construction.png");

@@ -259,7 +259,7 @@ public abstract class HtmlPageBase implements PageBuilder {
 		attributes.addAttribute("type", "text/javascript");
 		contentLines += HtmlTags.script.getTagLineWithAttributes(attributes);
 		contentLines += "BGLinks.version = \"NASB1995\";" + getEndOfLine();
-		contentLines += "BGLinks.showTooltips = false;" + getEndOfLine();
+		contentLines += "BGLinks.showTooltips = true;" + getEndOfLine();
 		contentLines += "BGLinks.linkVerses();" + getEndOfLine();
 		contentLines += HtmlTags.script.getCloseTagLine();
 
