@@ -9,7 +9,7 @@ import java.util.List;
 import builder.PageBuilder;
 import jsondata.JsonDataPageInfo;
 
-public abstract class HtmlPageBase implements PageBuilder {
+public abstract class HtmlPageBase extends HtmlCore implements PageBuilder {
 	private static final String HOME_ICON_PNG = "home-icon.png";
 	private static final String BACK_ARROW_PNG = "back-arrow.png";
 
@@ -50,7 +50,7 @@ public abstract class HtmlPageBase implements PageBuilder {
 			pageFile.write(getCustomBodyContent());
 
 			// BibleGateway javascript shows verses in popup when user hovers over verse.
-			pageFile.write(getBibleGatewayScript());
+			pageFile.write(getScriptureReferenceScript());
 
 			// Close out the file's last closing tags section.
 			pageFile.write(getCommonClose());
@@ -65,14 +65,6 @@ public abstract class HtmlPageBase implements PageBuilder {
 
 	protected String getFilePath() {
 		return filePath.toString();
-	}
-
-	protected String getIndent() {
-		return "  ";
-	}
-
-	protected String getEndOfLine() {
-		return "\r\n";
 	}
 
 	protected String getCommonTitleSection(String pageTitle) {
@@ -243,27 +235,11 @@ public abstract class HtmlPageBase implements PageBuilder {
 		return HtmlTags.h2.getContentTagLine(pageLink);
 	}
 
-	private String getBibleGatewayScript() {
-		String contentLines = "";
-		HtmlTagAttributes attributes = new HtmlTagAttributes();
-
-		contentLines += getEndOfLine();
-
-		attributes.clearAttributes();
-		attributes.addAttribute("src", "https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js");
-		attributes.addAttribute("type", "text/javascript");
-		contentLines += HtmlTags.script.getTagWithAttributes(attributes);
-		contentLines += HtmlTags.script.getCloseTagLine();
-
-		attributes.clearAttributes();
-		attributes.addAttribute("type", "text/javascript");
-		contentLines += HtmlTags.script.getTagLineWithAttributes(attributes);
-		contentLines += "BGLinks.version = \"NASB1995\";" + getEndOfLine();
-		contentLines += "BGLinks.showTooltips = true;" + getEndOfLine();
-		contentLines += "BGLinks.linkVerses();" + getEndOfLine();
-		contentLines += HtmlTags.script.getCloseTagLine();
-
-		return contentLines;
+	private String getScriptureReferenceScript() {
+		HtmlBibleReferenceScripts scriptBuilder = new HtmlBibleReferenceScripts();
+		
+//		return scriptBuilder.getBibleGatewayScript();
+		return scriptBuilder.getLogosRefTaggerScript();
 	}
 
 	private String getCommonClose() {
