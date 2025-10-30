@@ -49,11 +49,21 @@
   <h2><a href="index.html"><div class="nav-icon"><img class="nav-icon" src="images/home-icon.png">Back to Home Page</div></a></h2>
 </p>
 
-<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
-<script type="text/javascript">
-BGLinks.version = "NASB1995";
-BGLinks.showTooltips = true;
-BGLinks.linkVerses();
+<script>
+  var refTagger = {
+    settings: {
+      bibleVersion: 'NASB95'
+    }
+  };
+
+  (function(d, t) {
+    var n=d.querySelector('[nonce]');
+    refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+    g.nonce = refTagger.settings.nonce;
+    s.parentNode.insertBefore(g, s);
+  }(document, 'script'));
 </script>
 
 </body>
